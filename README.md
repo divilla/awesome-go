@@ -65,11 +65,17 @@ A curated list of awesome Go frameworks, libraries and software
   this feature will caching the recently used XPATH query string.
   Enable query caching can avoid re-compile XPath expression each query.
 
+* [goquery](https://github.com/PuerkitoBio/goquery) - brings a syntax and a set of features similar to [jQuery](https://jquery.com) to the Go language. It is based on Go's net/html package and the CSS Selector library [cascadia](https://github.com/andybalholm/cascadia). Since the net/html parser returns nodes, and not a full-featured DOM tree, jQuery's stateful manipulation functions (like height(), css(), detach()) have been left off.
+
+* [cascadia](https://github.com/andybalholm/cascadia) - CSS selectors Go library
+
 ## Email utilities
 
-* [Hermes](https://github.com/matcornic/hermes) - Hermes is the Go port of the great [mailgen](https://github.com/eladnava/mailgen) engine for Node.js.
-  Check their work, it's awesome! It's a package that generates clean, responsive HTML e-mails for sending transactional e-mails
-  (welcome e-mails, reset password e-mails, receipt e-mails and so on), and associated plain text fallback.
+* [Hermes](https://github.com/matcornic/hermes) - Hermes is the Go port of the great [mailgen](https://github.com/eladnava/mailgen) engine for Node.js. Check their work, it's awesome! It's a package that generates clean, responsive HTML e-mails for sending transactional e-mails (welcome e-mails, reset password e-mails, receipt e-mails and so on), and associated plain text fallback.
+
+## Crawlers, scrapers, spiders
+
+* [Colly](https://github.com/gocolly/colly) - Lightning Fast and Elegant Scraping Framework for Gophers. With Colly you can easily extract structured data from websites, which can be used for a wide range of applications, like data mining, data processing or archiving.
 
 ## JSON parsers & validators
 
@@ -81,6 +87,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [SJSON](https://github.com/tidwall/sjson) - provides a very fast and simple way to set a value in a json document.
 
 * [Pretty](https://github.com/tidwall/pretty) - provides fast methods for formatting JSON for human readability, or to compact JSON for smaller payloads.
+
+* [joi](https://github.com/sideway/joi) - The most powerful data validation library for **JavaScript** & **Node.js**
 
 ## Caching
 
@@ -105,9 +113,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [REST Layer](https://github.com/rs/rest-layer) - is an API framework heavily inspired by the excellent [Python Eve](http://python-eve.org). 
   It helps you create a comprehensive, customizable, and secure REST (graph) API on top of pluggable [backend storages](#main-storage-handlers) 
-  with no boiler plate code so you can focus on your business logic.  
+  with no boiler plate code so you can focus on your business logic.
+
+## Web servers
+
+* [Caddy](https://github.com/caddyserver/caddy) - powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 
 ## Computer vision & recognition
 
 * [gocv](https://github.com/hybridgroup/gocv) - The GoCV package provides Go language bindings for the [OpenCV 4](http://opencv.org/) computer vision library.
   
+## Other
+
+* [Regex Cheat-sheet](https://yourbasic.org/golang/regexp-cheat-sheet/)
