@@ -88,12 +88,26 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Pretty](https://github.com/tidwall/pretty) - provides fast methods for formatting JSON for human readability, or to compact JSON for smaller payloads.
 
-* [joi](https://github.com/sideway/joi) - The most powerful data validation library for **JavaScript** & **Node.js**
+* [joi](https://github.com/sideway/joi) - the most powerful data validation library for **JavaScript** & **Node.js**
 
-## Caching
+## Embedded DB & Caching
+
+* [BadgerDB](https://github.com/dgraph-io/badger) - an embeddable, persistent and fast key-value (KV) database written in pure Go. Fastest read speed. Supports TTL. Supports concurrent ACID transactions with serializable snapshot isolation (SSI) guarantees. (2021 - reference)
+
+* [column](https://github.com/kelindar/column) - high-performance, columnar, in-memory storage engine that supports fast querying, update and iteration with zero-allocations, bitmap indexing, TTL, transactions and streaming messages. (2021 - reference)
+
+* [GhostDB](https://github.com/jakekgrog/GhostDB) - distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. Supports persistance and point in time recovery. (2021)
+
+* [IceFireDB](https://github.com/IceFireDB/IceFireDB) - distributed disk storage database based on Raft and Redis protocol. (2021 - reference)
+
+* [uhaha](https://github.com/tidwall/uhaha) - framework for building highly available Raft-based data applications in Go. Small footprint, TLS and Auth password support. Multiple examples to help jumpstart integration, including a Key-value DB, a Timeseries DB, and a Ticket Service. (2021 - not mature)
+
+* [BBolt](https://github.com/etcd-io/bbolt) - an embedded key/value database for Go.
 
 * [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency.
-  Supports: Buckets, Layered Cache & TTL.
+Supports: Hashed buckets, Layered Cache & TTL.
+
+* [tiedot](https://github.com/HouzuoGuo/tiedot) - document database engine that uses JSON as document notation; it has a powerful query processor that supports advanced set operations; it can be embedded into your program, or run a stand-alone server using HTTP (2017)
 
 ## Functional programming helpers
 
@@ -105,24 +119,62 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [gofp](https://github.com/rbrahul/gofp) - A lodash like powerful utility library for Golang.
 
+* [objx](https://github.com/stretchr/objx) - package for dealing with maps, slices, JSON and other data.
+
 ## RESTful API Server builders & generators
 
 * [apig](https://github.com/shimastripe/apig) - RESTful API server generator.
   **Input**: Model definitions based on [gorm](https://github.com/jinzhu/gorm) annotated struct
   **Output**: RESTful JSON API server using [gin](https://github.com/gin-gonic/gin) including tests and documents.
 
-* [REST Layer](https://github.com/rs/rest-layer) - is an API framework heavily inspired by the excellent [Python Eve](http://python-eve.org). 
-  It helps you create a comprehensive, customizable, and secure REST (graph) API on top of pluggable [backend storages](#main-storage-handlers) 
-  with no boiler plate code so you can focus on your business logic.
+* [REST Layer](https://github.com/rs/rest-layer) - is an API framework heavily inspired by the excellent [Python Eve](http://python-eve.org). It helps you create a comprehensive, customizable, and secure REST (graph) API on top of pluggable [backend storages](#main-storage-handlers) with no boiler plate code so you can focus on your business logic.
+
+* [DBCore (ALPHA)](https://github.com/eatonphil/dbcore) - code generator build around database schemas and an API specification. Included with DBCore are templates for generating a Go REST API and React UI.
+
+## SQL Builders
+
+* [gosql](https://github.com/rushteam/gosql) - orm and sql builder
+
+* [dbr](https://github.com/mailru/dbr) - query builder and other additions to Go's database/sql for super fast performance and convenience.
+
+* [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - db driver and query builder (reference)
+
+* [fuckdb](https://github.com/hantmac/fuckdb) - generates a go compatible struct type with the required column names, data types, and annotations just fill in the database information in the web UI. Making go web develop very easy by saving a lot of time writing structure.fuckdbis based/inspired by the work of Seth Shelnutt's db2struct, and Db2Struct is based/inspired by the work of ChimeraCoder's gojson package gojson.
+
+* [DBQ](https://github.com/rocketlaunchr/dbq) - lightweight Dapper like db driver for PostgreSQl and MySQL
+
+* [MaxMind DB Reader](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
 
 ## Web servers
 
 * [Caddy](https://github.com/caddyserver/caddy) - powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 
+## WebSocket
+
+* [Gorilla WebSocket](https://github.com/gorilla/websocket) - Go implementation of the [WebSocket](http://www.rfc-editor.org/rfc/rfc6455.txt) protocol.
+
+* [recws](https://github.com/recws-org/recws) - reconnecting WebSocket is a websocket client based on gorilla/websocket that will automatically reconnect if the connection is dropped and keeps the connection alive - thread safe!
+
 ## Computer vision & recognition
 
-* [gocv](https://github.com/hybridgroup/gocv) - The GoCV package provides Go language bindings for the [OpenCV 4](http://opencv.org/) computer vision library.
+* [gocv](https://github.com/hybridgroup/gocv) - package provides Go language bindings for the [OpenCV 4](http://opencv.org/) computer vision library.
+
+## Blockchain
+
+* [Tendermint](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. Or Blockchain, for short.
+
+* [blackholeDB](https://github.com/bregydoc/blackholeDB) - conceptual Key-Value distributed Database. HoleDB uses IPFS as decentralized filesystem, and BadgerDB as store for local key value pairs. (work in progress)
+
+* [go-orbit-db](https://github.com/berty/go-orbit-db) - distributed peer-to-peer database on IPFS. This project intends to provide a fully compatible port of the JavaScript version in Go.
   
 ## Other
 
+* [Consul](https://github.com/hashicorp/consul) - distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+
+* [laitos](https://github.com/HouzuoGuo/laitos) - top geek's chindogu - personal assistant over satellite/telephone/SMS/chatbot, plus web infrastructure servers (web & mail, ad-free DNS, web proxy, SNMP, etc)
+
 * [Regex Cheat-sheet](https://yourbasic.org/golang/regexp-cheat-sheet/)
+
+## Gist
+
+* [Mutex vs Channel in concurrent map](https://gist.github.com/cyfdecyf/4562635)
