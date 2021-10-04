@@ -39,12 +39,6 @@ A curated list of awesome Go frameworks, libraries and software
   instead of Go's default http library, because of its lightning fast performance.
   With `bombardier v1.1` and higher you can now use `net/http` client if you need to test HTTP/2.x services or want to use a more RFC-compliant HTTP client.
 
-## gRPC
-
-* [gRPC-Go](https://github.com/grpc/grpc-go) - The [Go](https://golang.org/) implementation of [gRPC](https://grpc.io/): A high performance, open source, general
-  RPC framework that puts mobile and HTTP/2 first. For more information see the
-  [Go gRPC docs](https://grpc.io/docs/languages/go), or jump directly into the [quick start](https://grpc.io/docs/languages/go/quickstart).
-
 ## HTML templating engines
 
 * [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template. Inspired by the [Mako templates](http://www.makotemplates.org/) philosophy.
@@ -88,7 +82,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Pretty](https://github.com/tidwall/pretty) - provides fast methods for formatting JSON for human readability, or to compact JSON for smaller payloads.
 
-* [joi](https://github.com/sideway/joi) - the most powerful data validation library for **JavaScript** & **Node.js**
+## Data structures
+
+* [skipmap](https://github.com/zhangyunhao116/skipmap) - high-performance, scalable concurrent sorted map based on skip-list. Up to 10x faster than sync.Map in the typical pattern.
+
+* [concurrent map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
+
+* [golang-lru](https://github.com/hashicorp/golang-lru) - provides the lru package which implements a fixed-size thread safe LRU cache. (Hashicorp)
 
 ## Embedded DB & Caching
 
@@ -108,6 +108,12 @@ A curated list of awesome Go frameworks, libraries and software
 Supports: Hashed buckets, Layered Cache & TTL.
 
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - document database engine that uses JSON as document notation; it has a powerful query processor that supports advanced set operations; it can be embedded into your program, or run a stand-alone server using HTTP (2017)
+
+## Message brokers
+
+* [Mist](https://github.com/nanopack/mist) - distributed, tag-based pub-sub service for modern web applications and container-driven cloud.
+
+* [yarpc](https://github.com/yarpc/yarpc-go) - message passing platform for Go
 
 ## Functional programming helpers
 
@@ -145,6 +151,12 @@ Supports: Hashed buckets, Layered Cache & TTL.
 
 * [MaxMind DB Reader](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
 
+## Validators
+
+* [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
+
+* [govalidator](https://github.com/asaskevich/govalidator) - package of validators and sanitizers for strings, numerics, slices and structs.
+
 ## Web servers
 
 * [Caddy](https://github.com/caddyserver/caddy) - powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
@@ -173,8 +185,28 @@ Supports: Hashed buckets, Layered Cache & TTL.
 
 * [laitos](https://github.com/HouzuoGuo/laitos) - top geek's chindogu - personal assistant over satellite/telephone/SMS/chatbot, plus web infrastructure servers (web & mail, ad-free DNS, web proxy, SNMP, etc)
 
+* [make-test](https://github.com/iconmobile-dev/go-interview/tree/master/make) - creates great testing display
+
 * [Regex Cheat-sheet](https://yourbasic.org/golang/regexp-cheat-sheet/)
+
+* [Git In Practice](https://github.com/MikeMcQuaid/GitInPractice) - opinionated, intermediate/advanced-level Git book
 
 ## Gist
 
 * [Mutex vs Channel in concurrent map](https://gist.github.com/cyfdecyf/4562635)
+
+## Architecture
+
+* [The Twelve-Factor App](https://12factor.net/) - methodology for building software-as-a-service apps
+
+## gRPC
+
+* [gRPC-Go](https://github.com/grpc/grpc-go) - The [Go](https://golang.org/) implementation of [gRPC](https://grpc.io/): A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. For more information see the
+* [Go gRPC docs](https://grpc.io/docs/languages/go), or jump directly into the [quick start](https://grpc.io/docs/languages/go/quickstart).
+
+## Node.js
+
+* [joi](https://github.com/sideway/joi) - the most powerful data validation library for **JavaScript** & **Node.js**
+
+* [Ultimate SAAS template](https://github.com/gmpetrov/ultimate-saas-ts) - quickstart a SAAS business
+  
