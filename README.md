@@ -7,21 +7,42 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/https://github.github.com/gfm)
 
+* [UTF-8 Symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp)
+
+
 ## Web frameworks
 
-* [echo](https://github.com/labstack/echo) - high performance, minimalist Go web frameworkHigh performance, minimalist Go web framework.
+* [Gin Web Framework](https://github.com/gin-gonic/gin) - features a martini-like API with performance that is up to 40 times faster thanks to [httprouter](https://github.com/julienschmidt/httprouter). If you need performance and good productivity, you will love Gin.  
+&#9733; 53.1k - &#9830; [gin-gonic.com](https://gin-gonic.com)
 
-* [Gin Web Framework](https://github.com/gin-gonic/gin) - features a martini-like API with performance that is up to 40 times faster thanks to [httprouter](https://github.com/julienschmidt/httprouter).
-  If you need performance and good productivity, you will love Gin.
+* [Beego](https://github.com/beego/beego) - high-performance web framework used for rapid development of enterprise application in Go, including RESTful APIs, web apps and backend services. It is inspired by Tornado, Sinatra and Flask. beego has some Go-specific features such as interfaces and struct embedding.  
+&#9733; 27.2k - &#9830; [beego.me](http://beego.me)
 
-* [Iris Web Framework](https://github.com/kataras/iris) - fastest HTTP/2 Go Web Framework.
-  AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more.
-  A true successor of expressjs and laravel.
+* [Iris Web Framework](https://github.com/kataras/iris) - fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel.  
+&#9733; 21.4k - &#9830; [iris-go.com](https://iris-go.com)
+
+* [echo](https://github.com/labstack/echo) - high performance, minimalist Go web frameworkHigh performance, minimalist Go web framework.  
+&#9733; 21.1k - &#9830; [echo.labstack.com](https://echo.labstack.com)
+
+* [Fiber](https://github.com/gofiber/fiber) - Express inspired web framework built on top of [fasthttp](https://github.com/valyala/fasthttp), the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.  
+&#9733; 16.4k - &#9830; [gofiber.io](https://gofiber.io)
+
+* [Kratos](https://github.com/go-kratos/kratos) - microservice-oriented governance framework implemented by golang, which offers convenient capabilities to help you quickly build a bulletproof application from scratch.  
+&#9733; 15.5k - &#9830; [go-kratos.dev](https://go-kratos.dev/)
+
+* [go-zero](https://github.com/zeromicro/go-zero) - web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.  
+&#9733; 12.6k - &#9830; [go-zero.dev](https://go-zero.dev)
+
+* [Micro](https://github.com/micro/micro) - addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on. [Micro Services](https://github.com/micro/services) - Programmable real world Micro services.  
+&#9733; 10.7k - &#9830; [micro.mu](https://micro.mu)
+
+## Echo middleware & other
+
+* [echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0
 
 ## Microservices frameworks
 
-* [Go kit](https://github.com/go-kit/kit) - **programming toolkit** for building microservices (or elegant monoliths) in Go.
-  We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.
+* [Go kit](https://github.com/go-kit/kit) - **programming toolkit** for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.
 
 * [Go Micro](https://github.com/asim/go-micro) - provides the core requirements for distributed systems development including RPC and Event driven communication.
   The **Micro** philosophy is sane defaults with a pluggable architecture.
@@ -178,7 +199,11 @@ Supports: Hashed buckets, Layered Cache & TTL.
 * [blackholeDB](https://github.com/bregydoc/blackholeDB) - conceptual Key-Value distributed Database. HoleDB uses IPFS as decentralized filesystem, and BadgerDB as store for local key value pairs. (work in progress)
 
 * [go-orbit-db](https://github.com/berty/go-orbit-db) - distributed peer-to-peer database on IPFS. This project intends to provide a fully compatible port of the JavaScript version in Go.
-  
+
+## Tools
+
+* [golangci-lint](https://github.com/golangci/golangci-lint) - fast Go linters runner. It runs linters in parallel, uses caching, supports yaml config, has integrations with all major IDE and has dozens of linters included.
+
 ## Other
 
 * [Consul](https://github.com/hashicorp/consul) - distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
