@@ -94,12 +94,20 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## JSON parsers & validators
 
-* [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go.
-  No custom structs, no code generation, no reflection. Outperforms [GJSON](https://github.com/tidwall/gjson) when accessing multiple unrelated fields.
+* [jsoniter](https://github.com/json-iterator/go) - high-performance 100% compatible drop-in replacement of "encoding/json".
+&#9733; 10k
+
+* [easyjson](https://github.com/mailru/easyjson) - fast and easy way to marshal/unmarshal Go structs to/from JSON without the use of reflection. Ability to customize the generated code by providing options not available with the standard encoding/json package, such as generating "snake_case" names or enabling omitempty behavior by default.
+&#9733; 3.5k
+
+* [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. Outperforms [GJSON](https://github.com/tidwall/gjson) when accessing multiple unrelated fields.
+&#9733; 1.4k
 
 * [GJSON](https://github.com/tidwall/gjson) - provides a fast and simple way to get values from a json document. It has features such as one line retrieval, dot notation paths, iteration, and parsing json lines.
+&#9733; 9.3k
 
 * [SJSON](https://github.com/tidwall/sjson) - provides a very fast and simple way to set a value in a json document.
+&#9733; 1.5k
 
 * [Pretty](https://github.com/tidwall/pretty) - provides fast methods for formatting JSON for human readability, or to compact JSON for smaller payloads.
 
