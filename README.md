@@ -140,13 +140,15 @@ Supports: Hashed buckets, Layered Cache & TTL.
 
 ## Database migration
 
-* 
+* [migrate](https://github.com/golang-migrate/migrate) - database migrations. CLI and Golang library.
 
 ## Message brokers
 
 * [Mist](https://github.com/nanopack/mist) - distributed, tag-based pub-sub service for modern web applications and container-driven cloud.
 
 * [yarpc](https://github.com/yarpc/yarpc-go) - message passing platform for Go
+
+* [Event](https://github.com/gookit/event) - lightweight event manager and dispatcher
 
 ## Functional programming helpers
 
