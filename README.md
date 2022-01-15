@@ -1,6 +1,8 @@
 # awesome-go
 A curated list of awesome Go frameworks, libraries and software
 
+* [GolangRepo](https://golangrepo.com)
+
 ## README.md GitHub guide
 
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -8,7 +10,6 @@ A curated list of awesome Go frameworks, libraries and software
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/https://github.github.com/gfm)
 
 * [UTF-8 Symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp)
-
 
 ## Web frameworks
 
@@ -36,7 +37,7 @@ A curated list of awesome Go frameworks, libraries and software
 * [Micro](https://github.com/micro/micro) - addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on. [Micro Services](https://github.com/micro/services) - Programmable real world Micro services.  
 &#9733; 10.7k - &#9830; [micro.mu](https://micro.mu)
 
-## Echo middleware & other
+## Middleware & framework integrations
 
 * [echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0
 
@@ -47,6 +48,20 @@ A curated list of awesome Go frameworks, libraries and software
 * [Go Micro](https://github.com/asim/go-micro) - provides the core requirements for distributed systems development including RPC and Event driven communication.
   The **Micro** philosophy is sane defaults with a pluggable architecture.
   We provide defaults to get you started quickly but everything can be easily swapped out.
+
+## Enterprise frameworks & toolkits
+
+* [Config](https://github.com/gookit/config) - config manager (load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var.  
+&#9733; 304
+
+* [Go Util](https://github.com/gookit/goutil) - utils: string, array/slice, map, format, CLI, ENV, filesystem, testing and more.  
+&#9733; 464 - &#9830; [github.com/gookit/goutil](https://pkg.go.dev/github.com/gookit/goutil)
+
+* [Events](https://github.com/gookit/event) - Lightweight event manager and dispatcher   
+&#9733; 189 - &#9830; [github.com/gookit/event](https://pgk.go.dev/github.com/gookit/event)
+
+* [Filter](https://github.com/gookit/filter) - provides filtering, sanitizing, and conversion of Golang data.  
+&#9733; 48
 
 ## Testing & Benchmarking
 
@@ -60,15 +75,22 @@ A curated list of awesome Go frameworks, libraries and software
   instead of Go's default http library, because of its lightning fast performance.
   With `bombardier v1.1` and higher you can now use `net/http` client if you need to test HTTP/2.x services or want to use a more RFC-compliant HTTP client.
 
-## HTML templating engines
+## HTML template engines
 
-* [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template. Inspired by the [Mako templates](http://www.makotemplates.org/) philosophy.
+* [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template. Inspired by the [Mako templates](http://www.makotemplates.org/) philosophy.  
+&#9733; 2.3k
 
-* [amber](https://github.com/eknkc/amber) - elegant templating engine for Go Programming Language It is inspired from HAML and Jade.
+* [pongo2](https://github.com/flosch/pongo2) - Django-syntax like templating-language ([official website](https://www.schlachter.tech/solutions/pongo2-template-engine/)).  
+&#9733; 2.1k &#9830; [www.schlachter.tech/pongo2](https://www.schlachter.tech/pongo2)
 
-* [Blocks](https://github.com/kataras/blocks) - simple, Go-idiomatic view engine based on html/template with some extra features.
+* [plush](https://github.com/gobuffalo/plush) - The powerful template system that Go needs.  
+&#9733; 681
 
-* [pongo2](https://github.com/flosch/pongo2) - Django-syntax like templating-language ([official website](https://www.schlachter.tech/solutions/pongo2-template-engine/)).
+* [amber](https://github.com/eknkc/amber) - elegant templating engine for Go Programming Language It is inspired from HAML and Jade.  
+&#9733; 886 &#9830; **Unmaintained**
+
+* [Blocks](https://github.com/kataras/blocks) - simple, Go-idiomatic view engine based on html/template with some extra features.  
+&#9733; 27
 
 ## HTML utilities
 
@@ -150,6 +172,8 @@ Supports: Hashed buckets, Layered Cache & TTL.
 
 * [Event](https://github.com/gookit/event) - lightweight event manager and dispatcher
 
+* [relay](https://github.com/armon/relay) - framework for simple message passing using an AMQP broker
+
 ## Functional programming helpers
 
 * [fpGo](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Golang.
@@ -216,6 +240,9 @@ Supports: Hashed buckets, Layered Cache & TTL.
 
 ## Tools
 
+* [nightingale](https://github.com/didi/nightingale) - Distributed and High-Performance Monitoring System. Prometheus enterprise UI  
+&#9733; 3.5k - &#9830; [n9e.github.io](https://n9e.github.io/)
+
 * [golangci-lint](https://github.com/golangci/golangci-lint) - fast Go linters runner. It runs linters in parallel, uses caching, supports yaml config, has integrations with all major IDE and has dozens of linters included.
 
 ## Other
@@ -248,4 +275,3 @@ Supports: Hashed buckets, Layered Cache & TTL.
 * [joi](https://github.com/sideway/joi) - the most powerful data validation library for **JavaScript** & **Node.js**
 
 * [Ultimate SAAS template](https://github.com/gmpetrov/ultimate-saas-ts) - quickstart a SAAS business
-  

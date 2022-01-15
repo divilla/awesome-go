@@ -3,19 +3,27 @@ A curated list of awesome CSS frameworks, libraries and software
 
 * [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 
+* [Flexbox Patterns](https://github.com/cjcenizal/flexbox-patterns) - patterns for using flexbox CSS to build awesome UI components.
+
 ## Pure CSS frameworks
+
+* [normalize.css](https://github.com/necolas/normalize.css) - modern alternative to CSS resets  
+&#9733; 46.1k - &#9830; [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/) **Like**
 
 * [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox  
 &#9733; 44.7k - &#9830; [bulma.io](https://bulma.io) **Like**
 
+* [Turret](https://github.com/turretcss/turretcss) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.  
+&#9733; 760 - &#9830; [turretcss.com](https://turretcss.com/) **Like**
+
 * [Pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML  
 &#9733; 656 - &#9830; [picocss.com](https://picocss.com/) - **Like**
 
+* [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - grid based on CSS3 flexbox  
+&#9733; 1.2k - &#9830; [flexboxgrid.com](http://flexboxgrid.com) - **Like**
+
 * [Spectre](https://github.com/picturepan2/spectre) - A Lightweight, Responsive and Modern CSS Framework  
 &#9733; 10.9k - &#9830; [picturepan2.github.io/spectre](https://picturepan2.github.io/spectre/) - **Unmaintained**
-
-* [Turret](https://github.com/turretcss/turretcss) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.  
-&#9733; 760 - &#9830; [turretcss.com](https://turretcss.com/)
 
 * [SkyBlue](https://github.com/Stanko/skyblue) - CSS framework (made with SASS)  
 &#9733; 453 - &#9830; [muffinman.io/skyblue](https://muffinman.io/skyblue/)
