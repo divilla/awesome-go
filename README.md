@@ -14,28 +14,28 @@ A curated list of awesome Go frameworks, libraries and software
 ## Web frameworks
 
 * [Gin Web Framework](https://github.com/gin-gonic/gin) - features a martini-like API with performance that is up to 40 times faster thanks to [httprouter](https://github.com/julienschmidt/httprouter). If you need performance and good productivity, you will love Gin.  
-&#9733; 53.1k - &#9830; [gin-gonic.com](https://gin-gonic.com)
+&#9733; 53.1k &#9830; **2021-11-24** &#9830; [gin-gonic.com](https://gin-gonic.com)
 
 * [Beego](https://github.com/beego/beego) - high-performance web framework used for rapid development of enterprise application in Go, including RESTful APIs, web apps and backend services. It is inspired by Tornado, Sinatra and Flask. beego has some Go-specific features such as interfaces and struct embedding.  
-&#9733; 27.2k - &#9830; [beego.me](http://beego.me)
+&#9733; 27.2k &#9830; **2020-12-14** &#9830; [beego.me](http://beego.me)
 
 * [Iris Web Framework](https://github.com/kataras/iris) - fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel.  
-&#9733; 21.4k - &#9830; [iris-go.com](https://iris-go.com)
+&#9733; 21.4k &#9830; **2021-12-02** &#9830; [iris-go.com](https://iris-go.com)
 
 * [echo](https://github.com/labstack/echo) - high performance, minimalist Go web frameworkHigh performance, minimalist Go web framework.  
-&#9733; 21.1k - &#9830; [echo.labstack.com](https://echo.labstack.com)
+&#9733; 21.1k &#9830; **2022-01-11** &#9830; [echo.labstack.com](https://echo.labstack.com)
 
 * [Fiber](https://github.com/gofiber/fiber) - Express inspired web framework built on top of [fasthttp](https://github.com/valyala/fasthttp), the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.  
-&#9733; 16.4k - &#9830; [gofiber.io](https://gofiber.io)
+&#9733; 16.4k &#9830; **2021-12-31** &#9830; [gofiber.io](https://gofiber.io)
 
 * [Kratos](https://github.com/go-kratos/kratos) - microservice-oriented governance framework implemented by golang, which offers convenient capabilities to help you quickly build a bulletproof application from scratch.  
-&#9733; 15.5k - &#9830; [go-kratos.dev](https://go-kratos.dev/)
+&#9733; 15.5k &#9830; **2022-01-05** &#9830; [go-kratos.dev](https://go-kratos.dev/)
 
 * [go-zero](https://github.com/zeromicro/go-zero) - web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.  
-&#9733; 12.6k - &#9830; [go-zero.dev](https://go-zero.dev)
+&#9733; 12.6k &#9830; **2022-01-08** &#9830; [go-zero.dev](https://go-zero.dev)
 
 * [Micro](https://github.com/micro/micro) - addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on. [Micro Services](https://github.com/micro/services) - Programmable real world Micro services.  
-&#9733; 10.7k - &#9830; [micro.mu](https://micro.mu)
+&#9733; 10.7k &#9830; **2022-01-14** &#9830; [micro.mu](https://micro.mu)
 
 ## Middleware & framework integrations
 
@@ -51,17 +51,21 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Enterprise frameworks & toolkits
 
-* [Config](https://github.com/gookit/config) - config manager (load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var.  
-&#9733; 304
-
 * [Go Util](https://github.com/gookit/goutil) - utils: string, array/slice, map, format, CLI, ENV, filesystem, testing and more.  
-&#9733; 464 - &#9830; [github.com/gookit/goutil](https://pkg.go.dev/github.com/gookit/goutil)
+&#9733; 464 &#9830; [github.com/gookit/goutil](https://pkg.go.dev/github.com/gookit/goutil)
+
+* [Config](https://github.com/gookit/config) - config manager (load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var.  
+&#9733; 304 &#9830; [github.com/gookit/config](https://pgk.go.dev/github.com/gookit/config)
 
 * [Events](https://github.com/gookit/event) - Lightweight event manager and dispatcher   
-&#9733; 189 - &#9830; [github.com/gookit/event](https://pgk.go.dev/github.com/gookit/event)
+&#9733; 189 &#9830; [github.com/gookit/event](https://pgk.go.dev/github.com/gookit/event)
 
 * [Filter](https://github.com/gookit/filter) - provides filtering, sanitizing, and conversion of Golang data.  
-&#9733; 48
+&#9733; 48 &#9830; [godoc.org/github.com/gookit/filter](https://godoc.org/github.com/gookit/filter)
+
+* [securecookie](https://github.com/gorilla/securecookie) - encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.  
+&#9733; 555 - &#9830; [www.gorillatoolkit.org/pkg/securecookie](http://www.gorillatoolkit.org/pkg/securecookie)
+
 
 ## Testing & Benchmarking
 
@@ -143,22 +147,32 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Embedded DB & Caching
 
-* [BadgerDB](https://github.com/dgraph-io/badger) - an embeddable, persistent and fast key-value (KV) database written in pure Go. Fastest read speed. Supports TTL. Supports concurrent ACID transactions with serializable snapshot isolation (SSI) guarantees. (2021 - reference)
+* [BadgerDB](https://github.com/dgraph-io/badger) - an embeddable, persistent and fast key-value (KV) database written in pure Go. Fastest read speed. Supports TTL. Supports concurrent ACID transactions with serializable snapshot isolation (SSI) guarantees. (2021 - reference)  
+&#9733; 10.3k &#9830; **2021-10-07** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
+
+* [immudb](https://github.com/codenotary/immudb) - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history  
+&#9733; 6.8k &#9830; **2022-01-12**  &#9830; [docs.immudb.io/master](https://docs.immudb.io/master/)
+
+* [BBolt](https://github.com/etcd-io/bbolt) - an embedded key/value database for Go.  
+&#9733; 5.1k &#9830; **2021-06-17** &#9830; [go.etcd.io/bbolt](https://go.etcd.io/bbolt)
+
+* [tiedot](https://github.com/HouzuoGuo/tiedot) - document database engine that uses JSON as document notation; it has a powerful query processor that supports advanced set operations; it can be embedded into your program, or run a stand-alone server using HTTP (2017)  
+&#9733; 2.7k &#9830; **2021-05-93**
 
 * [column](https://github.com/kelindar/column) - high-performance, columnar, in-memory storage engine that supports fast querying, update and iteration with zero-allocations, bitmap indexing, TTL, transactions and streaming messages. (2021 - reference)
+&#9733; 856 &#9830; **2022-01-01** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
 
-* [GhostDB](https://github.com/jakekgrog/GhostDB) - distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. Supports persistance and point in time recovery. (2021)
+* [IceFireDB](https://github.com/IceFireDB/IceFireDB) - distributed disk storage database based on Raft and Redis protocol.  
+&#9733; 724 &#9830; **2022-01-13** &#9830; [www.icefiredb.com](https://www.icefiredb.com/)
 
-* [IceFireDB](https://github.com/IceFireDB/IceFireDB) - distributed disk storage database based on Raft and Redis protocol. (2021 - reference)
+* [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency. Supports: Hashed buckets, Layered Cache & TTL.  
+&#9733; 877 &#9830; **2021-02-06**
 
-* [uhaha](https://github.com/tidwall/uhaha) - framework for building highly available Raft-based data applications in Go. Small footprint, TLS and Auth password support. Multiple examples to help jumpstart integration, including a Key-value DB, a Timeseries DB, and a Ticket Service. (2021 - not mature)
+* [GhostDB](https://github.com/jakekgrog/GhostDB) - distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. Supports persistance and point in time recovery.  
+&#9733; 712 &#9830; **2021-03-10** &#9830; [www.ghostdbcache.com](http://www.ghostdbcache.com/)
 
-* [BBolt](https://github.com/etcd-io/bbolt) - an embedded key/value database for Go.
-
-* [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency.
-Supports: Hashed buckets, Layered Cache & TTL.
-
-* [tiedot](https://github.com/HouzuoGuo/tiedot) - document database engine that uses JSON as document notation; it has a powerful query processor that supports advanced set operations; it can be embedded into your program, or run a stand-alone server using HTTP (2017)
+* [uhaha](https://github.com/tidwall/uhaha) - framework for building highly available Raft-based data applications in Go. Small footprint, TLS and Auth password support. Multiple examples to help jumpstart integration, including a Key-value DB, a Timeseries DB, and a Ticket Service. (2021 - not mature)  
+&#9733; 364 &#9830; **2021-10-07**
 
 ## Database migration
 
