@@ -1,6 +1,5 @@
 # awesome-go
 A curated list of awesome Go frameworks, libraries and software
-
 * [GolangRepo](https://golangrepo.com)
 
 
@@ -51,10 +50,10 @@ A curated list of awesome Go frameworks, libraries and software
 * [gorilla/sessions](https://github.com/gorilla/sessions) - provides cookie and filesystem sessions and infrastructure for custom session backends.  
 &#9733; 2.2k &#9733; **2020-08-22**
 
-* [gorilla/securecookie](https://github.com/gorilla/securecookie) - encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
+* [gorilla/securecookie](https://github.com/gorilla/securecookie) - encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.  
 &#9733; 555 &#9733; **2018-02-23**
 
-* [echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
+* [echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.  
 &#9733; 415 &#9733; **2022-01-18**
 
 
@@ -63,19 +62,22 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [singleflight](https://pkg.go.dev/golang.org/x/sync/singleflight) - provides a duplicate function call suppression mechanism.
 
+* [GoFrame](https://github.com/gogf/gf) - modular, powerful, high-performance and enterprise-class application development.  
+&#9733; 6.7k &#9733; **2022-01-18** &#9830; [goframe.org](https://goframe.org/)
+
 * [Go Util](https://github.com/gookit/goutil) - utils: string, array/slice, map, format, CLI, ENV, filesystem, testing and more.  
 &#9733; 481 &#9733; **2022-01-18** &#9830; [github.com/gookit/goutil](https://pkg.go.dev/github.com/gookit/goutil)
-
-* [objx](https://github.com/stretchr/objx) - package for dealing with maps, slices, JSON and other data.
+`
+* [objx](https://github.com/stretchr/objx) - package for dealing with maps, slices, JSON and other data.  
 &#9733; 460 &#9733; **2020-08-19**
 
-* [fpGo](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Golang.
+* [fpGo](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Golang.  
 &#9733; 233 &#9733; **2022-01-05**
 
 * [Events](https://github.com/gookit/event) - lightweight event manager and dispatcher   
 &#9733; 191 &#9733; **2021-03-11** &#9830; [pgk.go.dev/github.com/gookit/event](https://pgk.go.dev/github.com/gookit/event)
 
-* [gofp](https://github.com/rbrahul/gofp) - super simple Lodash like utility library with essential functions.
+* [gofp](https://github.com/rbrahul/gofp) - super simple Lodash like utility library with essential functions.  
 &#9733; 104 &#9733; **2021-02-23**
 
 * [Filter](https://github.com/gookit/filter) - provides filtering, sanitizing, and conversion of Golang data.  
