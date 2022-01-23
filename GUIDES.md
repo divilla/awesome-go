@@ -10,6 +10,18 @@
 
 
 
+## Go
+
+```Shell
+# Reload packages
+rm go.sum
+go mod tidy
+```
+
+* [Regex Cheat-sheet](https://yourbasic.org/golang/regexp-cheat-sheet/)
+
+
+
 ## Gist
 
 * [Mutex vs Channel in concurrent map](https://gist.github.com/cyfdecyf/4562635)
@@ -19,3 +31,9 @@
 ## Architecture
 
 * [The Twelve-Factor App](https://12factor.net/) - methodology for building software-as-a-service apps
+
+
+
+## Git
+
+* [Git In Practice](https://github.com/MikeMcQuaid/GitInPractice) - opi

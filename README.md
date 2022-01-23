@@ -64,6 +64,9 @@ go mod tidy
 * [echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.  
 &#9733; 415 &#9733; **2022-01-18**
 
+* [Gorilla WebSocket](https://github.com/gorilla/websocket) - Go implementation of the [WebSocket](http://www.rfc-editor.org/rfc/rfc6455.txt) protocol.
+
+* [recws](https://github.com/recws-org/recws) - reconnecting WebSocket is a websocket client based on gorilla/websocket that will automatically reconnect if the connection is dropped and keeps the connection alive - thread safe!
 
 
 ## Toolkits & helpers
@@ -298,14 +301,6 @@ go mod tidy
 
 
 
-## WebSocket
-
-* [Gorilla WebSocket](https://github.com/gorilla/websocket) - Go implementation of the [WebSocket](http://www.rfc-editor.org/rfc/rfc6455.txt) protocol.
-
-* [recws](https://github.com/recws-org/recws) - reconnecting WebSocket is a websocket client based on gorilla/websocket that will automatically reconnect if the connection is dropped and keeps the connection alive - thread safe!
-
-
-
 ## Computer vision & recognition
 
 * [gocv](https://github.com/hybridgroup/gocv) - package provides Go language bindings for the [OpenCV 4](http://opencv.org/) computer vision library.
@@ -325,7 +320,7 @@ go mod tidy
 ## Tools & linters
 
 * [nightingale](https://github.com/didi/nightingale) - Distributed and High-Performance Monitoring System. Prometheus enterprise UI  
-&#9733; 3.5k - &#9830; [n9e.github.io](https://n9e.github.io/)
+&#9733; 3.5k &#9830; [n9e.github.io](https://n9e.github.io/)
 
 * [golangci-lint](https://github.com/golangci/golangci-lint) - fast Go linters runner. It runs linters in parallel, uses caching, supports yaml config, has integrations with all major IDE and has dozens of linters included.
 
@@ -335,13 +330,13 @@ go mod tidy
 
 * [Consul](https://github.com/hashicorp/consul) - distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
+* [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library  
+&#9733; 5k &#9733; **2021-10-06** &#9830; [go-acme.github.io/lego](https://go-acme.github.io/lego/)
+
 * [laitos](https://github.com/HouzuoGuo/laitos) - top geek's chindogu - personal assistant over satellite/telephone/SMS/chatbot, plus web infrastructure servers (web & mail, ad-free DNS, web proxy, SNMP, etc)
 
 * [make-test](https://github.com/iconmobile-dev/go-interview/tree/master/make) - creates great testing display
-
-* [Regex Cheat-sheet](https://yourbasic.org/golang/regexp-cheat-sheet/)
-
-* [Git In Practice](https://github.com/MikeMcQuaid/GitInPractice) - opinionated, intermediate/advanced-level Git book
+nionated, intermediate/advanced-level Git book
 
 
 
