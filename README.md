@@ -1,7 +1,15 @@
 # awesome-go
+
 A curated list of awesome Go frameworks, libraries and software
+
 * [GolangRepo](https://golangrepo.com)
 
+
+```Shell
+# Reload packages
+rm go.sum
+go mod tidy
+```
 
 
 ## Web frameworks
