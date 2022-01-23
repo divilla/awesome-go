@@ -3,69 +3,97 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [GolangRepo](https://golangrepo.com)
 
-## README.md GitHub guide
 
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/https://github.github.com/gfm)
-
-* [UTF-8 Symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp)
 
 ## Web frameworks
 
 * [Gin Web Framework](https://github.com/gin-gonic/gin) - features a martini-like API with performance that is up to 40 times faster thanks to [httprouter](https://github.com/julienschmidt/httprouter). If you need performance and good productivity, you will love Gin.  
-&#9733; 53.1k &#9830; **2021-11-24** &#9830; [gin-gonic.com](https://gin-gonic.com)
+&#9733; 53.1k &#9733; **2021-11-24** &#9830; [gin-gonic.com](https://gin-gonic.com)
 
 * [Beego](https://github.com/beego/beego) - high-performance web framework used for rapid development of enterprise application in Go, including RESTful APIs, web apps and backend services. It is inspired by Tornado, Sinatra and Flask. beego has some Go-specific features such as interfaces and struct embedding.  
-&#9733; 27.2k &#9830; **2020-12-14** &#9830; [beego.me](http://beego.me)
+&#9733; 27.2k &#9733; **2020-12-14** &#9830; [beego.me](http://beego.me)
 
 * [Iris Web Framework](https://github.com/kataras/iris) - fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel.  
-&#9733; 21.4k &#9830; **2021-12-02** &#9830; [iris-go.com](https://iris-go.com)
+&#9733; 21.4k &#9733; **2021-12-02** &#9830; [iris-go.com](https://iris-go.com)
 
 * [echo](https://github.com/labstack/echo) - high performance, minimalist Go web frameworkHigh performance, minimalist Go web framework.  
-&#9733; 21.1k &#9830; **2022-01-11** &#9830; [echo.labstack.com](https://echo.labstack.com)
+&#9733; 21.1k &#9733; **2022-01-11** &#9830; [echo.labstack.com](https://echo.labstack.com)
 
 * [Fiber](https://github.com/gofiber/fiber) - Express inspired web framework built on top of [fasthttp](https://github.com/valyala/fasthttp), the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.  
-&#9733; 16.4k &#9830; **2021-12-31** &#9830; [gofiber.io](https://gofiber.io)
+&#9733; 16.4k &#9733; **2021-12-31** &#9830; [gofiber.io](https://gofiber.io)
 
 * [Kratos](https://github.com/go-kratos/kratos) - microservice-oriented governance framework implemented by golang, which offers convenient capabilities to help you quickly build a bulletproof application from scratch.  
-&#9733; 15.5k &#9830; **2022-01-05** &#9830; [go-kratos.dev](https://go-kratos.dev/)
+&#9733; 15.5k &#9733; **2022-01-05** &#9830; [go-kratos.dev](https://go-kratos.dev/)
 
 * [go-zero](https://github.com/zeromicro/go-zero) - web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.  
-&#9733; 12.6k &#9830; **2022-01-08** &#9830; [go-zero.dev](https://go-zero.dev)
+&#9733; 12.6k &#9733; **2022-01-08** &#9830; [go-zero.dev](https://go-zero.dev)
 
-* [Micro](https://github.com/micro/micro) - addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on. [Micro Services](https://github.com/micro/services) - Programmable real world Micro services.  
-&#9733; 10.7k &#9830; **2022-01-14** &#9830; [micro.mu](https://micro.mu)
 
-## Middleware & framework integrations
-
-* [echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0
 
 ## Microservices frameworks
 
 * [Go kit](https://github.com/go-kit/kit) - **programming toolkit** for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.
+&#9733; 22.2k &#9733; **2021-09-23** &#9830; [gokit.io](https://gokit.io/)
 
-* [Go Micro](https://github.com/asim/go-micro) - provides the core requirements for distributed systems development including RPC and Event driven communication.
-  The **Micro** philosophy is sane defaults with a pluggable architecture.
-  We provide defaults to get you started quickly but everything can be easily swapped out.
+* [Go Micro](https://github.com/asim/go-micro) - framework for distributed systems development. Provides the core requirements for distributed systems development including RPC and Event driven communication. The **Micro** philosophy is sane defaults with a pluggable architecture.
+&#9733; 17.9k &#9733; **2021-12-19** &#9830; [go-micro.dev](https://go-micro.dev/)
 
-## Enterprise frameworks & toolkits
+* [Micro](https://github.com/micro/micro) - distributed cloud platform. Addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on.  
+&#9733; 10.9k &#9733; **2022-01-14** &#9830; [micro.dev](https://micro.dev/)
+
+[Micro Services](https://github.com/micro/services) - programmable real world Micro services. Micro services provide the fundamental building blocks for any products, apps or services. They can be used in isolation or combined to create a powerful distributed system. The services are intended to be consumed by each other using RPC and from the external world through a Micro API.  
+&#9733; 392 &#9733; **2022-01-14** &#9830; [m3o.com](https://m3o.com/)
+
+
+
+## Middleware & framework integrations
+
+* [gorilla/sessions](https://github.com/gorilla/sessions) - provides cookie and filesystem sessions and infrastructure for custom session backends.  
+&#9733; 2.2k &#9733; **2020-08-22**
+
+* [gorilla/securecookie](https://github.com/gorilla/securecookie) - encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
+&#9733; 555 &#9733; **2018-02-23**
+
+* [echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
+&#9733; 415 &#9733; **2022-01-18**
+
+## Toolkits & helpers
+
+* [singleflight](https://pkg.go.dev/golang.org/x/sync/singleflight) - provides a duplicate function call suppression mechanism.
 
 * [Go Util](https://github.com/gookit/goutil) - utils: string, array/slice, map, format, CLI, ENV, filesystem, testing and more.  
-&#9733; 464 &#9830; [github.com/gookit/goutil](https://pkg.go.dev/github.com/gookit/goutil)
+&#9733; 481 &#9733; **2022-01-18** &#9830; [github.com/gookit/goutil](https://pkg.go.dev/github.com/gookit/goutil)
 
-* [Config](https://github.com/gookit/config) - config manager (load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var.  
-&#9733; 304 &#9830; [github.com/gookit/config](https://pgk.go.dev/github.com/gookit/config)
+* [objx](https://github.com/stretchr/objx) - package for dealing with maps, slices, JSON and other data.
+&#9733; 460 &#9733; **2020-08-19**
 
-* [Events](https://github.com/gookit/event) - Lightweight event manager and dispatcher   
-&#9733; 189 &#9830; [github.com/gookit/event](https://pgk.go.dev/github.com/gookit/event)
+* [fpGo](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Golang.
+&#9733; 233 &#9733; **2022-01-05**
+
+* [Events](https://github.com/gookit/event) - lightweight event manager and dispatcher   
+&#9733; 191 &#9733; **2021-03-11** &#9830; [pgk.go.dev/github.com/gookit/event](https://pgk.go.dev/github.com/gookit/event)
+
+* [gofp](https://github.com/rbrahul/gofp) - super simple Lodash like utility library with essential functions.
+&#9733; 104 &#9733; **2021-02-23**
 
 * [Filter](https://github.com/gookit/filter) - provides filtering, sanitizing, and conversion of Golang data.  
-&#9733; 48 &#9830; [godoc.org/github.com/gookit/filter](https://godoc.org/github.com/gookit/filter)
+&#9733; 53 &#9733; **2022-01-18** &#9830; [godoc.org/github.com/gookit/filter](https://godoc.org/github.com/gookit/filter)
 
-* [securecookie](https://github.com/gorilla/securecookie) - encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.  
-&#9733; 555 - &#9830; [www.gorillatoolkit.org/pkg/securecookie](http://www.gorillatoolkit.org/pkg/securecookie)
+## CLI frameworks & configs
 
+* [CLI Color](https://github.com/gookit/color) - terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows.  
+&#9733; 1K &#9733; **2021-10-18** &#9830; [gookit.github.io/color](https://gookit.github.io/color/)
+
+* [Config](https://github.com/gookit/config) - config manager (load,get,set). support JSON, YAML, TOML, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var.  
+&#9733; 304 &#9733; **2021-10-13** &#9830; [pkg.go.dev/github.com/gookit/config/v2](https://pkg.go.dev/github.com/gookit/config/v2)
+
+* [GCli](https://github.com/gookit/gcli) - provides filtering, sanitizing, and conversion of Golang data.  
+&#9733; 233 &#9733; **2021-10-11** &#9830; [gookit.github.io/gcli](https://gookit.github.io/gcli/)
+
+## Dependency Injection
+
+* [DI](https://github.com/gookit/di) - lightweight dependency injection container.  
+&#9733; 3 &#9733; **2018-10-06** &#9830;
 
 ## Testing & Benchmarking
 
@@ -75,9 +103,7 @@ A curated list of awesome Go frameworks, libraries and software
   The `mock` package provides a mechanism for easily writing mock objects that can be used in place of real objects when writing test code.
   The `suite` package provides functionality that you might be used to from more common object oriented languages.  With it, you can build a testing suite as a struct, build setup/teardown methods and testing methods on your struct, and run them with 'go test' as per normal.
 
-* [bombardier](https://github.com/codesenberg/bombardier) - is an HTTP(S) benchmarking tool. It is written in Go programming language and uses excellent [fasthttp](https://github.com/valyala/fasthttp)
-  instead of Go's default http library, because of its lightning fast performance.
-  With `bombardier v1.1` and higher you can now use `net/http` client if you need to test HTTP/2.x services or want to use a more RFC-compliant HTTP client.
+* [bombardier](https://github.com/codesenberg/bombardier) - is an HTTP(S) benchmarking tool. It is written in Go programming language and uses excellent [fasthttp](https://github.com/valyala/fasthttp) instead of Go's default http library, because of its lightning fast performance. With `bombardier v1.1` and higher you can now use `net/http` client if you need to test HTTP/2.x services or want to use a more RFC-compliant HTTP client.
 
 ## HTML template engines
 
@@ -91,7 +117,7 @@ A curated list of awesome Go frameworks, libraries and software
 &#9733; 681
 
 * [amber](https://github.com/eknkc/amber) - elegant templating engine for Go Programming Language It is inspired from HAML and Jade.  
-&#9733; 886 &#9830; **Unmaintained**
+&#9733; 886 &#9733; **Unmaintained**
 
 * [Blocks](https://github.com/kataras/blocks) - simple, Go-idiomatic view engine based on html/template with some extra features.  
 &#9733; 27
@@ -148,31 +174,34 @@ A curated list of awesome Go frameworks, libraries and software
 ## Embedded DB & Caching
 
 * [BadgerDB](https://github.com/dgraph-io/badger) - an embeddable, persistent and fast key-value (KV) database written in pure Go. Fastest read speed. Supports TTL. Supports concurrent ACID transactions with serializable snapshot isolation (SSI) guarantees. (2021 - reference)  
-&#9733; 10.3k &#9830; **2021-10-07** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
+&#9733; 10.3k &#9733; **2021-10-07** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
 
 * [immudb](https://github.com/codenotary/immudb) - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history  
-&#9733; 6.8k &#9830; **2022-01-12**  &#9830; [docs.immudb.io/master](https://docs.immudb.io/master/)
+&#9733; 6.8k &#9733; **2022-01-12**  &#9830; [docs.immudb.io/master](https://docs.immudb.io/master/)
 
 * [BBolt](https://github.com/etcd-io/bbolt) - an embedded key/value database for Go.  
-&#9733; 5.1k &#9830; **2021-06-17** &#9830; [go.etcd.io/bbolt](https://go.etcd.io/bbolt)
+&#9733; 5.1k &#9733; **2021-06-17** &#9830; [go.etcd.io/bbolt](https://go.etcd.io/bbolt)
 
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - document database engine that uses JSON as document notation; it has a powerful query processor that supports advanced set operations; it can be embedded into your program, or run a stand-alone server using HTTP (2017)  
-&#9733; 2.7k &#9830; **2021-05-93**
+&#9733; 2.7k &#9733; **2021-05-93**
 
 * [column](https://github.com/kelindar/column) - high-performance, columnar, in-memory storage engine that supports fast querying, update and iteration with zero-allocations, bitmap indexing, TTL, transactions and streaming messages. (2021 - reference)
-&#9733; 856 &#9830; **2022-01-01** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
+&#9733; 856 &#9733; **2022-01-01** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
 
 * [IceFireDB](https://github.com/IceFireDB/IceFireDB) - distributed disk storage database based on Raft and Redis protocol.  
-&#9733; 724 &#9830; **2022-01-13** &#9830; [www.icefiredb.com](https://www.icefiredb.com/)
+&#9733; 724 &#9733; **2022-01-13** &#9830; [www.icefiredb.com](https://www.icefiredb.com/)
 
 * [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency. Supports: Hashed buckets, Layered Cache & TTL.  
-&#9733; 877 &#9830; **2021-02-06**
+&#9733; 877 &#9733; **2021-02-06**
 
 * [GhostDB](https://github.com/jakekgrog/GhostDB) - distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. Supports persistance and point in time recovery.  
-&#9733; 712 &#9830; **2021-03-10** &#9830; [www.ghostdbcache.com](http://www.ghostdbcache.com/)
+&#9733; 712 &#9733; **2021-03-10** &#9830; [www.ghostdbcache.com](http://www.ghostdbcache.com/)
 
 * [uhaha](https://github.com/tidwall/uhaha) - framework for building highly available Raft-based data applications in Go. Small footprint, TLS and Auth password support. Multiple examples to help jumpstart integration, including a Key-value DB, a Timeseries DB, and a Ticket Service. (2021 - not mature)  
-&#9733; 364 &#9830; **2021-10-07**
+&#9733; 364 &#9733; **2021-10-07**
+
+* [Cache](https://github.com/gookit/cache) - generic cache use and cache manage. Provide a unified usage API by packaging various commonly used drivers. Support File, Memory, Redis, Memcached and more.  
+&#9733; 55 &#9733; **2022-01-17** &#9830; [pkg.go.dev/github.com/gookit/cache](https://pkg.go.dev/github.com/gookit/cache)
 
 ## Database migration
 
@@ -187,18 +216,6 @@ A curated list of awesome Go frameworks, libraries and software
 * [Event](https://github.com/gookit/event) - lightweight event manager and dispatcher
 
 * [relay](https://github.com/armon/relay) - framework for simple message passing using an AMQP broker
-
-## Functional programming helpers
-
-* [fpGo](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Golang.
-
-* [singleflight](https://pkg.go.dev/golang.org/x/sync/singleflight) - provides a duplicate function call suppression mechanism.
-
-## Maps & slices helpers
-
-* [gofp](https://github.com/rbrahul/gofp) - A lodash like powerful utility library for Golang.
-
-* [objx](https://github.com/stretchr/objx) - package for dealing with maps, slices, JSON and other data.
 
 ## RESTful API Server builders & generators
 
@@ -282,10 +299,5 @@ A curated list of awesome Go frameworks, libraries and software
 ## gRPC
 
 * [gRPC-Go](https://github.com/grpc/grpc-go) - The [Go](https://golang.org/) implementation of [gRPC](https://grpc.io/): A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. For more information see the
+
 * [Go gRPC docs](https://grpc.io/docs/languages/go), or jump directly into the [quick start](https://grpc.io/docs/languages/go/quickstart).
-
-## Node.js
-
-* [joi](https://github.com/sideway/joi) - the most powerful data validation library for **JavaScript** & **Node.js**
-
-* [Ultimate SAAS template](https://github.com/gmpetrov/ultimate-saas-ts) - quickstart a SAAS business
