@@ -34,7 +34,7 @@ A curated list of awesome Go frameworks, libraries and software
 * [Go kit](https://github.com/go-kit/kit) - **programming toolkit** for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.
 &#9733; 22.2k &#9733; **2021-09-23** &#9830; [gokit.io](https://gokit.io/)
 
-* [Go Micro](https://github.com/asim/go-micro) - framework for distributed systems development. Provides the core requirements for distributed systems development including RPC and Event driven communication. The **Micro** philosophy is sane defaults with a pluggable architecture.
+* [Go Micro](https://github.com/asim/go-micro) - framework for distributed systems development. Provides the core requirements for distributed systems development including RPC and Event driven communication. The **Micro** philosophy is sane defaults with a pluggable architecture.  
 &#9733; 17.9k &#9733; **2021-12-19** &#9830; [go-micro.dev](https://go-micro.dev/)
 
 * [Micro](https://github.com/micro/micro) - distributed cloud platform. Addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on.  
@@ -101,38 +101,39 @@ A curated list of awesome Go frameworks, libraries and software
 ## Dependency Injection
 
 * [DI](https://github.com/gookit/di) - lightweight dependency injection container.  
-&#9733; 3 &#9733; **2018-10-06** &#9830;
+&#9733; 3 &#9733; **2018-10-06**
 
 
 
 ## Testing & Benchmarking
 
-* [Testify](https://github.com/stretchr/testify) - is set of packages that assist in testing code.
-  The `assert` package provides assert functions.
-  The `require` package provides same global functions as the `assert` package, but instead of returning a boolean result they terminate current test.
-  The `mock` package provides a mechanism for easily writing mock objects that can be used in place of real objects when writing test code.
-  The `suite` package provides functionality that you might be used to from more common object oriented languages.  With it, you can build a testing suite as a struct, build setup/teardown methods and testing methods on your struct, and run them with 'go test' as per normal.
+* [Testify](https://github.com/stretchr/testify) - toolkit with common assertions and mocks that plays nicely with the standard library.  
+&#9733; 15.3k &#9733; **2021-01-13**
 
-* [bombardier](https://github.com/codesenberg/bombardier) - is an HTTP(S) benchmarking tool. It is written in Go programming language and uses excellent [fasthttp](https://github.com/valyala/fasthttp) instead of Go's default http library, because of its lightning fast performance. With `bombardier v1.1` and higher you can now use `net/http` client if you need to test HTTP/2.x services or want to use a more RFC-compliant HTTP client.
+* [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool.  
+&#9733; 3k &#9733; **2020-10-15**
 
 
 
 ## HTML template engines
 
 * [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template. Inspired by the [Mako templates](http://www.makotemplates.org/) philosophy.  
-&#9733; 2.3k
+&#9733; 2.3k &#9733; **2021-09-15**
 
 * [pongo2](https://github.com/flosch/pongo2) - Django-syntax like templating-language ([official website](https://www.schlachter.tech/solutions/pongo2-template-engine/)).  
-&#9733; 2.1k &#9830; [www.schlachter.tech/pongo2](https://www.schlachter.tech/pongo2)
-
-* [plush](https://github.com/gobuffalo/plush) - The powerful template system that Go needs.  
-&#9733; 681
+&#9733; 2.1k &#9733; **2020-10-16** &#9830; [www.schlachter.tech/pongo2](https://www.schlachter.tech/pongo2)
 
 * [amber](https://github.com/eknkc/amber) - elegant templating engine for Go Programming Language It is inspired from HAML and Jade.  
-&#9733; 886 &#9733; **Unmaintained**
+&#9733; 888 &#9733; **2017-10-10**
+
+* [plush](https://github.com/gobuffalo/plush) - The powerful template system that Go needs.  
+&#9733; 692 &#9733; **2021-11-19**
+
+* [goview](https://github.com/foolin/goview) - lightweight, minimalist and idiomatic template library based on golang html/template.  
+&#9733; 264 &#9733; **2020-03-02**
 
 * [Blocks](https://github.com/kataras/blocks) - simple, Go-idiomatic view engine based on html/template with some extra features.  
-&#9733; 27
+&#9733; 28 &#9733; **2020-09-29**
 
 
 
