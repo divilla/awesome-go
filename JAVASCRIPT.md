@@ -72,14 +72,17 @@
 [lodash](https://github.com/lodash/lodash) - a modern JavaScript utility library delivering modularity, performance, & extras.  
 &#9733; 52.1k &#9733; **2016-01-12** &#9830; [lodash.com](https://lodash.com/)
 
+[zx](https://github.com/google/zx) - a tool for writing better scripts.  
+&#9733; 27.3k &#9733; **2022-01-16** &#9830; [npmjs.com/package/zx](https://npmjs.com/package/zx)
+
 [You (Might) Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.  
 &#9733; 20.1k &#9733; **2021-09-01**
 
 [Local Forage](https://github.com/localForage/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.  
 &#9733; 20k &#9733; **2021-08-18** &#9830; [localforage.github.io/localForage](https://localforage.github.io/localForage)
 
-[zx](https://github.com/google/zx) - a tool for writing better scripts.  
-&#9733; 27.3k &#9733; **2022-01-16** &#9830; [npmjs.com/package/zx](https://npmjs.com/package/zx)
+[joi](https://github.com/sideway/joi) - The most powerful data validation library for JS.  
+&#9733; 20k &#9733; **2022-01-27**
 
 [ESLint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.  
 &#9733; 19.9k &#9733; **2022-01-09** &#9830; [eslint.org](https://eslint.org/)
@@ -93,13 +96,10 @@
 [StackEdit](https://github.com/benweet/stackedit) - Full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.  
 &#9733; 18.9k &#9733; **2021-03-29** &#9830; [stackedit.io](https://stackedit.io/)
 
-[joi](https://github.com/sideway/joi) - The most powerful data validation library for JS.  
-&#9733; 20k &#9733; **2022-01-27**
-
 [core-js](https://github.com/zloirock/core-js) - Standard Library  
 &#9733; 16.2k &#9733; **2022-02-02**
 
-[MediumEditor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+[MediumEditor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.  
 &#9733; 15.5k &#9733; **2020-08-02** &#9830; [yabwe.github.io/medium-editor](https://yabwe.github.io/medium-editor/)
 
 [Javascript State Machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library  
@@ -121,6 +121,8 @@
 
 [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces  
 [infernojs.org](https://infernojs.org/)
+
+## Penetration testing
 
 [BeEF](https://github.com/beefproject/beef) - is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.  
 &#9733; 6.3k &#9733; **2021-11-26** &#9830; [beefproject.com](https://beefproject.com/)
