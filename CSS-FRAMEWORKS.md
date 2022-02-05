@@ -8,19 +8,28 @@ A curated list of awesome CSS frameworks, libraries and software
 ## Pure CSS frameworks
 
 * [normalize.css](https://github.com/necolas/normalize.css) - modern alternative to CSS resets  
-&#9733; 46.1k - &#9830; [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/) **Like**
+&#9733; 46.1k &#9733; **Active** &#9830; [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/)
 
 * [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox  
-&#9733; 44.7k - &#9830; [bulma.io](https://bulma.io) **Like**
+&#9733; 44.7k &#9733; **Active** &#9830; [bulma.io](https://bulma.io) **Like**
+
+* [Pure](https://github.com/pure-css/pure/) - A set of small, responsive CSS modules that you can use in every web project.  
+&#9733; 22.2k &#9733; **Active** &#9830; [purecss.io](http://purecss.io/)
+
+* [Milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.  
+&#9733; 9.6k &#9733; **2020** &#9830; [milligram.io](https://milligram.io/)
+
+* [Picnic CSS](https://github.com/franciscop/picnic) - A beautiful CSS library to kickstart your projects  
+&#9733; 3.5k &#9733; **Active** &#9830; [picnicss.com](http://picnicss.com/)
+
+* [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - grid based on CSS3 flexbox  
+&#9733; 1.2k &#9733; **2018** &#9830; [flexboxgrid.com](http://flexboxgrid.com) &#9830; **Like**
 
 * [Turret](https://github.com/turretcss/turretcss) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.  
-&#9733; 760 - &#9830; [turretcss.com](https://turretcss.com/) **Like**
+&#9733; 760 &#9733; **Active** &#9830; [turretcss.com](https://turretcss.com/) &#9830; **Like**
 
 * [Pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML  
 &#9733; 656 - &#9830; [picocss.com](https://picocss.com/) - **Like**
-
-* [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - grid based on CSS3 flexbox  
-&#9733; 1.2k - &#9830; [flexboxgrid.com](http://flexboxgrid.com) - **Like**
 
 * [Spectre](https://github.com/picturepan2/spectre) - A Lightweight, Responsive and Modern CSS Framework  
 &#9733; 10.9k - &#9830; [picturepan2.github.io/spectre](https://picturepan2.github.io/spectre/) - **Unmaintained**

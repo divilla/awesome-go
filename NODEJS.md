@@ -23,3 +23,5 @@
 
 [fastify](https://github.com/fastify/fastify) - fast and low overhead web framework, for Node.js.  
 &#9733; 21.9k &#9733; **2022-19-11** &#9830; [www.fastify.io](https://www.fastify.io/)
+
+[Frontless](https://github.com/nesterow/frontless) - is a node.js stack for building universal (isomorphic) javascript applications. At the core, Frontless is just a small Express server that provides a developer with powerful tools for building SSR web applications. Feathers + Riot + Turbolinks + Express.
