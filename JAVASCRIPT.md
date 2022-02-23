@@ -2,6 +2,8 @@
 
 * [bestofjs](https://bestofjs.org/) - The best of JavaScript, HTML and CSS
 
+* [Quasar Awesome](https://github.com/quasarframework/quasar-awesome) - A list of awesome things related to Quasar
+
 ## Frameworks
 
 ### Alpine - Server generated HTML application Framework
