@@ -8,11 +8,7 @@ A curated list of awesome CSS frameworks, libraries and software
 ## Pure CSS frameworks
 
 * [normalize.css](https://github.com/necolas/normalize.css) - modern alternative to CSS resets  
-<<<<<<< HEAD
-&#9733; 46.1k - &#9830; [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/) **Like**
-=======
 &#9733; 46.1k &#9733; **Active** &#9830; [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/)
->>>>>>> 71abb818dc90b53421feaf48b7224c47157d6306
 
 * [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox  
 &#9733; 44.7k &#9733; **Active** &#9830; [bulma.io](https://bulma.io) **Like**

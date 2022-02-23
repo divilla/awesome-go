@@ -3,11 +3,6 @@
 A curated list of awesome Go frameworks, libraries and software
 
 * [GolangRepo](https://golangrepo.com)
-<<<<<<< HEAD
-
-## README.md GitHub guide
-=======
->>>>>>> 71abb818dc90b53421feaf48b7224c47157d6306
 
 
 ## Web frameworks
@@ -34,12 +29,6 @@ A curated list of awesome Go frameworks, libraries and software
 &#9733; 12.6k &#9733; **2022-01-08** &#9830; [go-zero.dev](https://go-zero.dev)
 
 
-<<<<<<< HEAD
-## Middleware & framework integrations
-
-* [echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0
-=======
->>>>>>> 71abb818dc90b53421feaf48b7224c47157d6306
 
 ## Microservices frameworks
 
@@ -136,24 +125,6 @@ A curated list of awesome Go frameworks, libraries and software
 * [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool.  
 &#9733; 3k &#9733; **2020-10-15**
 
-<<<<<<< HEAD
-## HTML template engines
-
-* [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template. Inspired by the [Mako templates](http://www.makotemplates.org/) philosophy.  
-&#9733; 2.3k
-
-* [pongo2](https://github.com/flosch/pongo2) - Django-syntax like templating-language ([official website](https://www.schlachter.tech/solutions/pongo2-template-engine/)).  
-&#9733; 2.1k &#9830; [www.schlachter.tech/pongo2](https://www.schlachter.tech/pongo2)
-
-* [plush](https://github.com/gobuffalo/plush) - The powerful template system that Go needs.  
-&#9733; 681
-
-* [amber](https://github.com/eknkc/amber) - elegant templating engine for Go Programming Language It is inspired from HAML and Jade.  
-&#9733; 886 &#9830; **Unmaintained**
-
-* [Blocks](https://github.com/kataras/blocks) - simple, Go-idiomatic view engine based on html/template with some extra features.  
-&#9733; 27
-=======
 
 
 ## HTML template engines
@@ -177,7 +148,6 @@ A curated list of awesome Go frameworks, libraries and software
 &#9733; 28 &#9733; **2020-09-29**
 
 
->>>>>>> 71abb818dc90b53421feaf48b7224c47157d6306
 
 ## HTML utilities
 
