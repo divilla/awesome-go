@@ -121,6 +121,9 @@ A curated list of awesome Go frameworks, libraries and software
 * [GoFrame](https://github.com/gogf/gf) - modular, powerful, high-performance and enterprise-class application development.  
 &#9733; 6.7k &#9733; **2022** &#9830; [goframe.org](https://goframe.org/)
 
+* [FSM for Go](https://github.com/looplab/fsm) - Finite State Machine  
+&#9733; 1.7 &#9733; **2021**
+
 * [Go Util](https://github.com/gookit/goutil) - utils: string, array/slice, map, format, CLI, ENV, filesystem, testing and more.  
 &#9733; 481 &#9733; **2022** &#9830; [github.com/gookit/goutil](https://pkg.go.dev/github.com/gookit/goutil)
 `
@@ -138,6 +141,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Filter](https://github.com/gookit/filter) - provides filtering, sanitizing, and conversion of Golang data.  
 &#9733; 53 &#9733; **2022** &#9830; [godoc.org/github.com/gookit/filter](https://godoc.org/github.com/gookit/filter)
+
+* [redux](https://github.com/dannypsnl/redux) - redux implementation  
+&#9733; 43 &#9733; **2021** &#9830; [pkg.go.dev/github.com/dannypsnl/redux/v2](https://pkg.go.dev/github.com/dannypsnl/redux/v2)
 
 * [Ececutor](https://github.com/rodaine/executor) - Action/Executor (Command) Pattern Library for Concurrent Workloads  
 &#9733; 13 &#9733; **2020** &#9830; [godoc.org/github.com/rodaine/executor](https://godoc.org/github.com/rodaine/executor)
@@ -264,7 +270,7 @@ A curated list of awesome Go frameworks, libraries and software
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - document database engine that uses JSON as document notation; it has a powerful query processor that supports advanced set operations; it can be embedded into your program, or run a stand-alone server using HTTP (2017)  
 &#9733; 2.7k &#9733; **2021-05-93**
 
-* [column](https://github.com/kelindar/column) - high-performance, columnar, in-memory storage engine that supports fast querying, update and iteration with zero-allocations, bitmap indexing, TTL, transactions and streaming messages. (2021 - reference)
+* [column](https://github.com/kelindar/column) - high-performance, columnar, in-memory storage engine that supports fast querying, update and iteration with zero-allocations, bitmap indexing, TTL, transactions and streaming messages. (2021 - reference)  
 &#9733; 856 &#9733; **2022-01-01** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
 
 * [IceFireDB](https://github.com/IceFireDB/IceFireDB) - distributed disk storage database based on Raft and Redis protocol.  
@@ -276,8 +282,14 @@ A curated list of awesome Go frameworks, libraries and software
 * [GhostDB](https://github.com/jakekgrog/GhostDB) - distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. Supports persistance and point in time recovery.  
 &#9733; 712 &#9733; **2021-03-10** &#9830; [www.ghostdbcache.com](http://www.ghostdbcache.com/)
 
+* [Redwood](https://github.com/redwood/redwood) - highly-configurable, distributed, realtime database that manages a state tree shared among many peers.  
+&#9733; 581 &#9733; **2022**
+
 * [uhaha](https://github.com/tidwall/uhaha) - framework for building highly available Raft-based data applications in Go. Small footprint, TLS and Auth password support. Multiple examples to help jumpstart integration, including a Key-value DB, a Timeseries DB, and a Ticket Service. (2021 - not mature)  
-&#9733; 364 &#9733; **2021-10-07**
+&#9733; 364 &#9733; **2021**
+
+* [vellum](https://github.com/blevesearch/vellum) - library implementing an FST (finite state transducer)  
+&#9733; 85 &#9733; **2021**
 
 * [Cache](https://github.com/gookit/cache) - generic cache use and cache manage. Provide a unified usage API by packaging various commonly used drivers. Support File, Memory, Redis, Memcached and more.  
 &#9733; 55 &#9733; **2022-01-17** &#9830; [pkg.go.dev/github.com/gookit/cache](https://pkg.go.dev/github.com/gookit/cache)
@@ -292,7 +304,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)  
 &#9733; 402 &#9733; **2020**
-
 
 ## Database migration
 
@@ -321,8 +332,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [DBCore (ALPHA)](https://github.com/eatonphil/dbcore) - code generator build around database schemas and an API specification. Included with DBCore are templates for generating a Go REST API and React UI.
 
-
-
 ## SQL Builders
 
 * [gosql](https://github.com/rushteam/gosql) - orm and sql builder
@@ -337,21 +346,23 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [MaxMind DB Reader](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
 
-
-
 ## Validators
 
 * [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
 
 * [govalidator](https://github.com/asaskevich/govalidator) - package of validators and sanitizers for strings, numerics, slices and structs.
 
-
-
 ## Web servers
 
 * [Caddy](https://github.com/caddyserver/caddy) - powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 
+## State Machines
 
+* [Stateless](https://github.com/qmuntal/stateless) - library for creating state machines.
+
+* [Transition](https://github.com/qor/transition) - state machine implementation.
+
+* [StateMachine](https://github.com/Gurpartap/statemachine-go) - Declarative Finite-State Machines in Go
 
 ## Computer vision & recognition
 
@@ -376,8 +387,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [golangci-lint](https://github.com/golangci/golangci-lint) - fast Go linters runner. It runs linters in parallel, uses caching, supports yaml config, has integrations with all major IDE and has dozens of linters included.
 
-
-
 ## Other
 
 * [Consul](https://github.com/hashicorp/consul) - distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -389,8 +398,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [make-test](https://github.com/iconmobile-dev/go-interview/tree/master/make) - creates great testing display
 nionated, intermediate/advanced-level Git book
-
-
 
 ## gRPC
 
