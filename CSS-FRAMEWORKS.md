@@ -48,6 +48,9 @@ A curated list of awesome CSS frameworks, libraries and software
 * [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.  
 &#9733; 49.7k - &#9830; [www.semantic-ui.com](http://www.semantic-ui.com/) - **Like**
 
+* [Materialize](https://github.com/Dogfalo/materialize) - a CSS Framework based on Material Design  
+&#9733; 38.6k - &#9830; [materializecss.com](https://materializecss.com/) - **Unmaintained**
+
 * [PatternFly 4](https://github.com/patternfly/patternfly) - This repo contains core (HTML/CSS) implementation for PatternFly.  
 &#9733; 419 - &#9830; [patternfly.org](https://patternfly.org) - **Like**
 
@@ -63,11 +66,17 @@ A curated list of awesome CSS frameworks, libraries and software
 * [Halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.  
 &#9733; 2.6k - &#9830; [www.gethalfmoon.com](https://www.gethalfmoon.com/)
 
-* [CodyFrame](https://github.com/CodyHouse/codyhouse-framework) - lightweight front-end framework for building accessible, bespoke interfaces.
+* [CodyFrame](https://github.com/CodyHouse/codyhouse-framework) - lightweight front-end framework for building accessible, bespoke interfaces.  
 &#9733; 1.1k - &#9830; [codyhouse.co](https://codyhouse.co/)
+
+* [Chota](https://github.com/jenil/chota) - micro (3kb) CSS framework  
+&#9733; 891 - &#9830; [jenil.github.io/chota](https://jenil.github.io/chota)
+
 
 * [Cirrus](hhttps://github.com/Spiderpig86/Cirrus) - The SCSS framework for the modern web.  
 &#9733; 855 - &#9830; [cirrus-ui.netlify.app](https://cirrus-ui.netlify.app/)
 
-* [Materialize](https://github.com/Dogfalo/materialize) - a CSS Framework based on Material Design  
-&#9733; 38.6k - &#9830; [materializecss.com](https://materializecss.com/) - **Unmaintained**
+## Themes
+
+* [Bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma.  
+&#9733; 1.5k &#9733; **2021** &#9830; [jenil.github.io/bulmaswatch](https://jenil.github.io/bulmaswatch)
