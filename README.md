@@ -38,8 +38,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Multiplexers
 
+* [gorilla/mux](https://github.com/gorilla/mux) - powerful HTTP router and URL matcher for building Go web servers with gorilla  
+&#9733; 16.1k &#9733; **2021** &#9830; [www.gorillatoolkit.org/pkg/mux](http://www.gorillatoolkit.org/pkg/mux)
+
 * [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services  
 &#9733; 11k &#9733; **2022** &#9830; [go-chi.io](https://go-chi.io/)
+
+* [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.  
+&#9733; 4.9k &#9733; **2022** &#9830; [luraproject.org](https://luraproject.org/)
 
 * [bone](https://github.com/go-zoo/bone) - Lightning Fast HTTP Multiplexer  
 &#9733; 1.3k &#9733; **2019** &#9830; [go-zoo.github.io/bone](http://go-zoo.github.io/bone)
@@ -51,10 +57,13 @@ A curated list of awesome Go frameworks, libraries and software
 &#9733; 895 &#9733; **2022** &#9830; [goji.io](https://goji.io/)
 
 * [Lion](https://github.com/celrenheit/lion) - fast HTTP router for building modern scalable modular REST APIs  
-&#9733; 895 &#9733; **2022**
+&#9733; 751 &#9733; **2019**
 
 * [FastHttpRouter](https://github.com/buaazp/fasthttprouter) - high performance fasthttp request router that scales well  
 &#9733; 869 &#9733; **2019** &#9830; [godoc.org/github.com/buaazp/fasthttprouter](http://godoc.org/github.com/buaazp/fasthttprouter)
+
+* [httptreemux](https://github.com/dimfeld/httptreemux) - High-speed, flexible tree-based HTTP router for Go.  
+&#9733; 529 &#9733; **2021**
 
 * [Router](https://github.com/fasthttp/router) - Router implementation for fasthttp  
 &#9733; 306 &#9733; **2022**

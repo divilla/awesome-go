@@ -1,5 +1,7 @@
 # Awesome
 
+* [Awesome README](https://github.com/matiassingers/awesome-readme) - curated list of awesome READMEs
+
 * [Awesome Go](https://github.com/avelino/awesome-go) - curated list of awesome Go frameworks, libraries and software
 
 * [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) - verified and organized data ensuring it's really suitable for your learning process and useful for your development and application.
