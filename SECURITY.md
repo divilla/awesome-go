@@ -16,7 +16,12 @@
 
 * [JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens](https://datatracker.ietf.org/doc/html/rfc9068)
 * [HTTP State Management Mechanism](https://www.ietf.org/rfc/rfc6265.txt)
-* 
+* [The OAuth 2.0 Authorization Framework](https://www.rfc-editor.org/rfc/rfc6749.html)
+* [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://datatracker.ietf.org/doc/html/rfc6750)
+
+## WSO2
+
+* [A Primer on OAuth 2.0 for Client-Side Applications: Part 1](https://wso2.com/library/articles/a-primer-on-oauth-2-0-for-client-side-applications-part-1/)
 
 ## Google
 
@@ -26,3 +31,7 @@
 * [OAuth2 For Go](https://pkg.go.dev/golang.org/x/oauth2)
 * [Verify session cookie and check permissions](https://firebase.google.com/docs/auth/admin/manage-cookies#verify_session_cookie_and_check_permissions)
 * [Node.js API Reference](https://firebase.google.com/docs/reference/admin/node)
+
+## OWASP
+
+* [Cross-Site Request Forgery Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)

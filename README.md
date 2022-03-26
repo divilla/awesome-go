@@ -361,6 +361,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [govalidator](https://github.com/asaskevich/govalidator) - package of validators and sanitizers for strings, numerics, slices and structs.
 
+## Code generators
+
+* [Jennifer](https://github.com/dave/jennifer) - code generator for Go  
+&#9733; 2.4k &#9733; **2022**
+
 ## Web servers
 
 * [Caddy](https://github.com/caddyserver/caddy) - powerful, enterprise-ready, open source web server with automatic HTTPS written in Go

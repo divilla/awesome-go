@@ -14,6 +14,8 @@
 
 * [Top Go ORMs](https://github.com/d-tsuji/awesome-go-orms) - ORMs for Go, most starred on Github.
 
+* [Go Code Generators](https://github.com/gophersgang/go-codegen) - Huge unsorted list of code generators
+
 * [awesome](https://github.com/sindresorhus/awesome) - lists about all kinds of interesting topics
 
 * [awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set of bots for scraping URLs from Discord, Telegram, Reddit, and IRC.
