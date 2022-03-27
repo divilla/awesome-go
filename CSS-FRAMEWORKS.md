@@ -9,10 +9,10 @@ A curated list of awesome CSS frameworks, libraries and software
 ## Pure CSS frameworks
 
 * [normalize.css](https://github.com/necolas/normalize.css) - modern alternative to CSS resets  
-&#9733; 46.1k &#9733; **Active** &#9830; [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/)
+&#9733; 46.1k &#9733; **2022** &#9830; [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/)
 
 * [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox  
-&#9733; 44.7k &#9733; **Active** &#9830; [bulma.io](https://bulma.io) **Like**
+&#9733; 44.7k &#9733; **2022** &#9830; [bulma.io](https://bulma.io) **Like**
 
 * [Pure](https://github.com/pure-css/pure/) - A set of small, responsive CSS modules that you can use in every web project.  
 &#9733; 22.2k &#9733; **2022** &#9830; [purecss.io](http://purecss.io/)
@@ -24,7 +24,7 @@ A curated list of awesome CSS frameworks, libraries and software
 &#9733; 9.6k &#9733; **2020** &#9830; [milligram.io](https://milligram.io/)
 
 * [Picnic CSS](https://github.com/franciscop/picnic) - A beautiful CSS library to kickstart your projects  
-&#9733; 3.5k &#9733; **Active** &#9830; [picnicss.com](http://picnicss.com/)
+&#9733; 3.5k &#9733; **2022** &#9830; [picnicss.com](http://picnicss.com/)
 
 * [Tacit](https://github.com/yegor256/tacit) - framework for dummies, without a single CSS class  
 &#9733; 1.4k &#9733; **2022** &#9830; [yegor256.github.io/tacit](http://yegor256.github.io/tacit)
