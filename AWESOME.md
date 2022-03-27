@@ -16,6 +16,8 @@
 
 * [Go Code Generators](https://github.com/gophersgang/go-codegen) - Huge unsorted list of code generators
 
+* [Awesome UIKit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
+
 * [awesome](https://github.com/sindresorhus/awesome) - lists about all kinds of interesting topics
 
 * [awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set of bots for scraping URLs from Discord, Telegram, Reddit, and IRC.
