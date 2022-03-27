@@ -43,7 +43,7 @@ A curated list of awesome CSS frameworks, libraries and software
 
 ## Javascript backed CSS frameworks
 
-[TailwindCSS](https://github.com/tailwindlabs/tailwindcss) - utility-first CSS framework for rapid UI development.  
+* [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) - utility-first CSS framework for rapid UI development.  
 &#9733; 54.9k - &#9830; [tailwindcss.com](https://tailwindcss.com)
 
 * [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.  
