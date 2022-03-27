@@ -382,8 +382,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [gocv](https://github.com/hybridgroup/gocv) - package provides Go language bindings for the [OpenCV 4](http://opencv.org/) computer vision library.
 
-
-
 ## Blockchain
 
 * [Tendermint](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. Or Blockchain, for short.
@@ -391,8 +389,6 @@ A curated list of awesome Go frameworks, libraries and software
 * [blackholeDB](https://github.com/bregydoc/blackholeDB) - conceptual Key-Value distributed Database. HoleDB uses IPFS as decentralized filesystem, and BadgerDB as store for local key value pairs. (work in progress)
 
 * [go-orbit-db](https://github.com/berty/go-orbit-db) - distributed peer-to-peer database on IPFS. This project intends to provide a fully compatible port of the JavaScript version in Go.
-
-
 
 ## Tools & linters
 

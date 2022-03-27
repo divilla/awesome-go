@@ -1,13 +1,13 @@
 # Linux office projects
 
-### ONLYOFFICE
+## ONLYOFFICE
 
 [www.onlyoffice.com](https://www.onlyoffice.com)
 
-### SoftMaker FreeOffice
+## SoftMaker FreeOffice
 
 [www.freeoffice.com](https://www.freeoffice.com/en/)  
 
-### WPS office
+## WPS office
 
 [www.wps.com](https://www.wps.com/)
