@@ -23,3 +23,5 @@
 * [awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set of bots for scraping URLs from Discord, Telegram, Reddit, and IRC.
 
 * [Claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
+
+* [Icones](https://icones.netlify.app) - Icon Search Service - Zillions of icons

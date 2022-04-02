@@ -61,6 +61,9 @@ A curated list of awesome CSS frameworks, libraries and software
 * [Carbon Design System](https://github.com/carbon-design-system/carbon) - A design system built by IBM.  
 &#9733; 5k - &#9830; [www.carbondesignsystem.com](https://www.carbondesignsystem.com/)
 
+* [Windi CSS](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.  
+&#9733; 4.8k - &#9830; [windicss.org](https://windicss.org/) - **Like**
+
 * [MUI](https://github.com/muicss/mui) - material design lightweight CSS framework  
 &#9733; 4.5k - &#9830; [www.muicss.com](https://www.muicss.com/)
 
