@@ -8,6 +8,12 @@
 * [Quasar](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time.  
 &#9733; 20.6k &#9733; **2022** &#9830; **Like** &#9830; [quasar.dev](https://quasar.dev)
 
+* [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - enterprise-class UI components based on Ant Design and Vue.  
+&#9733; 16.3k &#9733; **2022** &#9830; **Top** &#9830; [antdv.com](https://antdv.com/)
+
+* [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.  
+&#9733; 14.1k &#9733; **2022** &#9830; [headlessui.dev](https://headlessui.dev)
+
 * [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.  
 &#9733; 13.7k &#9733; **2022** &#9830; [bootstrap-vue.org](https://bootstrap-vue.org)
 
@@ -17,8 +23,14 @@
 * [Buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.  
 &#9733; 9.1k &#9733; **2022** &#9830; **Like** &#9830; [buefy.org](https://buefy.org/)
 
+* [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.  
+&#9733; 8.4k &#9733; **2022** &#9830; **Top** &#9830; [www.naiveui.com](https://www.naiveui.com/)
+
 * [Vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2  
 &#9733; 5.4k &#9733; **2020** &#9830; **Like** &#9830; [lusaxweb.github.io/vuesax](https://lusaxweb.github.io/vuesax)
+
+* [Element Plus](https://github.com/element-plus/element-plus) - Vue.js 3 UI Library made by Element team  
+&#9733; 3.6k &#9733; **2022** &#9830; **Like** &#9830; [element-plus.org](https://element-plus.org/)
 
 * [PrimeVue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library  
 &#9733; 2.1k &#9733; **2022** &#9830; **Top** &#9830; [www.primefaces.org/primevue](https://www.primefaces.org/primevue)
@@ -26,8 +38,17 @@
 * [Vue-Tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue UI components with configurable classes ready for TailwindCSS  
 &#9733; 1.7k &#9733; **2021** &#9830; [www.vue-tailwind.com](https://www.vue-tailwind.com)
 
+* [Arco Design](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design  
+&#9733; 1.1k &#9733; **2022** &#9830; **Chinese** &#9830; [arco.design/vue](https://arco.design/vue)
+
+* [Inkline](https://github.com/inkline/inkline) - Vue.js 3 intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable  
+&#9733; 980 &#9733; **2022** &#9830; **Top** [inkline.io](https://inkline.io/)
+
 * [Oruga](https://github.com/oruga-ui/oruga) - lightweight library of UI components for Vue.js without CSS framework dependency  
 &#9733; 669 &#9733; **2022** &#9830; **Like** [oruga.io](https://oruga.io)
+
+* [@idux](https://github.com/IDuxFE/idux) - Vue.js 3 UI Component Library  
+&#9733; 266 &#9733; **2022** &#9830; **Like** [idux.site](https://idux.site)
 
 ## Static Framework Generators
 
