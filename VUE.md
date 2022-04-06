@@ -42,13 +42,13 @@
 &#9733; 1.1k &#9733; **2022** &#9830; **Chinese** &#9830; [arco.design/vue](https://arco.design/vue)
 
 * [Inkline](https://github.com/inkline/inkline) - Vue.js 3 intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable  
-&#9733; 980 &#9733; **2022** &#9830; **Top** [inkline.io](https://inkline.io/)
+&#9733; 980 &#9733; **2022** &#9830; **Top** &#9830; [inkline.io](https://inkline.io/)
 
 * [Oruga](https://github.com/oruga-ui/oruga) - lightweight library of UI components for Vue.js without CSS framework dependency  
-&#9733; 669 &#9733; **2022** &#9830; **Like** [oruga.io](https://oruga.io)
+&#9733; 669 &#9733; **2022** &#9830; **Like** &#9830; [oruga.io](https://oruga.io)
 
 * [@idux](https://github.com/IDuxFE/idux) - Vue.js 3 UI Component Library  
-&#9733; 266 &#9733; **2022** &#9830; **Like** [idux.site](https://idux.site)
+&#9733; 266 &#9733; **2022** &#9830; **Like** &#9830; [idux.site](https://idux.site)
 
 ## Static Framework Generators
 
