@@ -12,7 +12,10 @@ A curated list of awesome CSS frameworks, libraries and software
 &#9733; 46.1k &#9733; **2022** &#9830; [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/)
 
 * [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox  
-&#9733; 44.7k &#9733; **2022** &#9830; [bulma.io](https://bulma.io) **Like**
+&#9733; 44.7k &#9733; **2022** &#9830; **Like** &#9830; [bulma.io](https://bulma.io)
+
+* [Chakra](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications  
+&#9733; 25.1k &#9733; **2022** &#9830; **React** &#9830; [chakra-ui.com](https://chakra-ui.com/)
 
 * [Pure](https://github.com/pure-css/pure/) - A set of small, responsive CSS modules that you can use in every web project.  
 &#9733; 22.2k &#9733; **2022** &#9830; [purecss.io](http://purecss.io/)

@@ -88,3 +88,11 @@
 
 * [Admin One](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite & Vue CLI supported  
 &#9733; 401 &#9733; **2022** &#9830; **Like** &#9830; [justboil.github.io/admin-one-vue-tailwind](https://justboil.github.io/admin-one-vue-tailwind/)
+
+## Vite templates
+
+* [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template  
+&#9733; 4.5k &#9733; **2022** &#9830; **Like** &#9830; [vitesse.netlify.app](https://vitesse.netlify.app/)
+
+* [vitecamp](https://github.com/nekobc1998923/vitecamp) - zero-config Vue3 Starter template includes Vite2、Vue3 and TypeScript  
+&#9733; 127 &#9733; **2022** &#9830; **Like** &#9830; [vitecamp.netlify.app](https://vitecamp.netlify.app/)
