@@ -44,8 +44,14 @@
 * [Inkline](https://github.com/inkline/inkline) - Vue.js 3 intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable  
 &#9733; 980 &#9733; **2022** &#9830; **Top** &#9830; [inkline.io](https://inkline.io/)
 
+* [VEUI](https://github.com/ecomfe/veui) - Vue.js 3 Enterprise UI  
+&#9733; 918 &#9733; **2022** &#9830; [veui.dev](https://veui.dev/)
+
 * [Oruga](https://github.com/oruga-ui/oruga) - lightweight library of UI components for Vue.js without CSS framework dependency  
 &#9733; 669 &#9733; **2022** &#9830; **Like** &#9830; [oruga.io](https://oruga.io)
+
+* [TDesign](https://github.com/Tencent/tdesign-vue) - Vue.js 3 UI components lib for TDesign.  
+&#9733; 669 &#9733; **2022** &#9830; [tdesign.tencent.com/vue](https://tdesign.tencent.com/vue)
 
 * [@idux](https://github.com/IDuxFE/idux) - Vue.js 3 UI Component Library  
 &#9733; 266 &#9733; **2022** &#9830; **Like** &#9830; [idux.site](https://idux.site)
@@ -58,7 +64,13 @@
 * [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.  
 &#9733; 3.6k &#9733; **2022** &#9830; [vitepress.vuejs.org](https://vitepress.vuejs.org)
 
+* [VARLET](https://github.com/varletjs/varlet) - Vue.js 3 Material design mobile component library  
+&#9733; 2.5k &#9733; **2022** &#9830; [varlet.gitee.io/varlet-ui](https://varlet.gitee.io/varlet-ui)
+
 ## Mobile UI Frameworks
+
+* [Vant](https://github.com/youzan/vant) - Vue.js 3 Lightweight Mobile UI Components - iOS style  
+&#9733; 19.5 &#9733; **2022** &#9830; [vant-contrib.gitee.io/vant](https://vant-contrib.gitee.io/vant)
 
 * [Vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI  
 &#9733; 17.6k &#9733; **2021** &#9830; [vux.li](https://vux.li/)
@@ -96,3 +108,7 @@
 
 * [vitecamp](https://github.com/nekobc1998923/vitecamp) - zero-config Vue3 Starter template includes Vite2、Vue3 and TypeScript  
 &#9733; 127 &#9733; **2022** &#9830; **Like** &#9830; [vitecamp.netlify.app](https://vitecamp.netlify.app/)
+
+## Utilities
+* [VueUse](https://github.com/vueuse/vueuse) - Vue.js 3 Collection of essential Vue Composition Utilities  
+&#9733; 9.2k &#9733; **2022** &#9830; **Like** &#9830; [vueuse.org](https://vueuse.org/)

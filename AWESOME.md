@@ -18,9 +18,13 @@
 
 * [Awesome UIKit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 
+* [Awesome Vite.js](https://github.com/vitejs/awesome-vite) - A curated list of awesome things related to Vite.js  
+
 * [awesome](https://github.com/sindresorhus/awesome) - lists about all kinds of interesting topics
 
 * [awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set of bots for scraping URLs from Discord, Telegram, Reddit, and IRC.
+
+* [New daily trending repos in Vue](https://www.giters.com/vitalets/github-trending-repos/issues/128)
 
 * [Claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 
