@@ -6,13 +6,13 @@
 &#9733; 33.6k &#9733; **2022** &#9830; [vuetifyjs.com](https://vuetifyjs.com)
 
 * [Quasar](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time.  
-&#9733; 20.6k &#9733; **2022** &#9830; **Like** &#9830; [quasar.dev](https://quasar.dev)
+&#9733; 20.6k &#9733; **2022** &#9830; [quasar.dev](https://quasar.dev)
 
 * [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - enterprise-class UI components based on Ant Design and Vue.  
 &#9733; 16.3k &#9733; **2022** &#9830; **Top** &#9830; [antdv.com](https://antdv.com/)
 
 * [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.  
-&#9733; 14.1k &#9733; **2022** &#9830; [headlessui.dev](https://headlessui.dev)
+&#9733; 14.1k &#9733; **2022** &#9830; **Like** &#9830; [headlessui.dev](https://headlessui.dev)
 
 * [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.  
 &#9733; 13.7k &#9733; **2022** &#9830; [bootstrap-vue.org](https://bootstrap-vue.org)

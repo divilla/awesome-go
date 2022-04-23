@@ -6,6 +6,14 @@ A curated list of awesome CSS frameworks, libraries and software
 
 * [Flexbox Patterns](https://github.com/cjcenizal/flexbox-patterns) - patterns for using flexbox CSS to build awesome UI components.
 
+## Utility CSS frameworks
+
+* [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) - utility-first CSS framework for rapid UI development.  
+&#9733; 54.9k - &#9830; **2022** &#9830; [tailwindcss.com](https://tailwindcss.com)
+
+* [Windi CSS](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.  
+&#9733; 5k &#9733; **2022** &#9830; [windicss.org](https://windicss.org/)
+
 ## Pure CSS frameworks
 
 * [normalize.css](https://github.com/necolas/normalize.css) - modern alternative to CSS resets  
@@ -45,9 +53,6 @@ A curated list of awesome CSS frameworks, libraries and software
 &#9733; 453 - &#9830; [muffinman.io/skyblue](https://muffinman.io/skyblue/)
 
 ## Javascript backed CSS frameworks
-
-* [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) - utility-first CSS framework for rapid UI development.  
-&#9733; 54.9k - &#9830; [tailwindcss.com](https://tailwindcss.com)
 
 * [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.  
 &#9733; 49.7k - &#9830; [www.semantic-ui.com](http://www.semantic-ui.com/) - **Like**

@@ -84,7 +84,10 @@
 ## Utilities
 
 * [lodash](https://github.com/lodash/lodash) - a modern JavaScript utility library delivering modularity, performance, & extras.  
-&#9733; 52.1k &#9733; **2016-01-12** &#9830; [lodash.com](https://lodash.com/)
+&#9733; 53k &#9733; **2021** &#9830; [lodash.com](https://lodash.com/)
+
+* [day.js](https://github.com/iamkun/dayjs) - 2kB immutable date-time library alternative to Moment.js with the same modern API  
+&#9733; 38.7k &#9733; **2022** &#9830; [day.js.org](https://day.js.org/)
 
 * [zx](https://github.com/google/zx) - a tool for writing better scripts.  
 &#9733; 27.3k &#9733; **2022-01-16** &#9830; [npmjs.com/package/zx](https://npmjs.com/package/zx)
