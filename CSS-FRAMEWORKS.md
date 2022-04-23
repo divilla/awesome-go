@@ -11,8 +11,11 @@ A curated list of awesome CSS frameworks, libraries and software
 * [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) - utility-first CSS framework for rapid UI development.  
 &#9733; 54.9k - &#9830; **2022** &#9830; [tailwindcss.com](https://tailwindcss.com)
 
+* [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - grid based on CSS3 flexbox  
+&#9733; 1.2k &#9733; **2018** &#9830; **Like** &#9830; [flexboxgrid.com](http://flexboxgrid.com)
+
 * [Windi CSS](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.  
-&#9733; 5k &#9733; **2022** &#9830; [windicss.org](https://windicss.org/)
+&#9733; 5k &#9733; **2022** &#9830; **Like** &#9830; [windicss.org](https://windicss.org/)
 
 ## Pure CSS frameworks
 
@@ -39,9 +42,6 @@ A curated list of awesome CSS frameworks, libraries and software
 
 * [Tacit](https://github.com/yegor256/tacit) - framework for dummies, without a single CSS class  
 &#9733; 1.4k &#9733; **2022** &#9830; [yegor256.github.io/tacit](http://yegor256.github.io/tacit)
-
-* [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - grid based on CSS3 flexbox  
-&#9733; 1.2k &#9733; **2018** &#9830; [flexboxgrid.com](http://flexboxgrid.com) &#9830; **Like**
 
 * [Turret](https://github.com/turretcss/turretcss) - a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.  
 &#9733; 760 &#9733; **2021** &#9830; [turretcss.com](https://turretcss.com/) &#9830; **Like**
