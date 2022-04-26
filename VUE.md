@@ -110,5 +110,9 @@
 &#9733; 127 &#9733; **2022** &#9830; **Like** &#9830; [vitecamp.netlify.app](https://vitecamp.netlify.app/)
 
 ## Utilities
+
 * [VueUse](https://github.com/vueuse/vueuse) - Vue.js 3 Collection of essential Vue Composition Utilities  
 &#9733; 9.2k &#9733; **2022** &#9830; **Like** &#9830; [vueuse.org](https://vueuse.org/)
+
+* [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - Vue 3 - On-demand components auto importing for Vue. We have several built-in resolvers for popular UI libraries like Vuetify, Ant Design Vue, and Element Plus.  
+&#9733; 1.5k &#9733; **2022** &#9830; **Like** &#9830; [www.npmjs.com/package/unplugin-vue-components](https://www.npmjs.com/package/unplugin-vue-components)

@@ -4,6 +4,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [GolangRepo](https://golangrepo.com)
 
+* [Go 101](https://go101.org/)
+
 ## Web frameworks
 
 * [Gin Web Framework](https://github.com/gin-gonic/gin) - features a martini-like API with performance that is up to 40 times faster thanks to [httprouter](https://github.com/julienschmidt/httprouter). If you need performance and good productivity, you will love Gin.  
