@@ -236,6 +236,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Email utilities
 
+* [go-smtp](https://github.com/emersion/go-smtp) - An SMTP client & server library written in Go  
+&#9733; 900 &#9733; **2022** &#9830; **BEST**
+
 * [Hermes](https://github.com/matcornic/hermes) - Hermes is the Go port of the great [mailgen](https://github.com/eladnava/mailgen) engine for Node.js. Check their work, it's awesome! It's a package that generates clean, responsive HTML e-mails for sending transactional e-mails (welcome e-mails, reset password e-mails, receipt e-mails and so on), and associated plain text fallback.
 
 ## JSON parsers & validators

@@ -27,3 +27,7 @@ A curated list of awesome Linux desktop open-source
 * [Skrooge](https://skrooge.org) - personal finances manager, powered by KDE.
 
 * [Akaunting](https://akaunting.com) - open-source, and online accounting software for small businesses and freelancers.
+
+## Terminal
+
+* [Oh My Zsh](https://ohmyz.sh/) - framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
