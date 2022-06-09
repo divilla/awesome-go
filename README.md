@@ -166,6 +166,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## CLI frameworks & configs
 
+* [cli](https://github.com/urfave/cli) - simple, fast, and fun package for building command line apps
+&#9733; 18.5K &#9733; **2022** &#9830; [cli.urfave.org](https://cli.urfave.org/)
+
 * [CLI Color](https://github.com/gookit/color) - terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows.  
 &#9733; 1K &#9733; **2021-10-18** &#9830; [gookit.github.io/color](https://gookit.github.io/color/)
 

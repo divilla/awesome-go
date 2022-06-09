@@ -141,6 +141,8 @@
 
 * [JSON Viewer](https://github.com/renhongl/json-viewer-js) - Open source JSON viewer
 
+* [pretty-print-json](https://github.com/center-key/pretty-print-json) - Pretty-print JSON data into HTML to indent and colorize (written in TypeScript)
+
 ## Penetration testing
 
 * [BeEF](https://github.com/beefproject/beef) - is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.  
