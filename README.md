@@ -322,6 +322,20 @@ A curated list of awesome Go frameworks, libraries and software
 * [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)  
 &#9733; 402 &#9733; **2020**
 
+## Database & other drivers
+
+* [go-mysql](https://github.com/go-mysql-org/go-mysql) - pure go library to handle MySQL network protocol and replication.  
+  * Slave replication
+  * Incremental dumping
+  * Client
+  * Fake server
+  * Failover
+
+  &#9733; 3.7k &#9733; **2022** &#9733; **Like**
+
+* [Confluent's Golang Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-go) - client for Apache Kafka and the Confluent Platform.  
+&#9733; 3.4k &#9733; **2022** &#9733; **Like**
+
 ## Database migration
 
 * [migrate](https://github.com/golang-migrate/migrate) - database migrations. CLI and Golang library.
@@ -373,6 +387,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Jennifer](https://github.com/dave/jennifer) - code generator for Go  
 &#9733; 2.4k &#9733; **2022**
+
+* [MessagePack Code Generator](https://github.com/tinylib/msgp) - code generator for MessagePack / msgpack.org[Go]  
+&#9733; 1.5k &#9733; **2022**
 
 ## Web servers
 
