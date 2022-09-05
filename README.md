@@ -8,13 +8,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Microservices frameworks
 
-* [Go kit](https://github.com/go-kit/kit) - **programming toolkit** for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.  
+* [Go kit](https://github.com/go-kit/kit) - programming toolkit for building micro services (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.  
 &#9733; 23.8k &#9733; **ON** &#9830; [gokit.io](https://gokit.io/)
 
-* [go-zero](https://github.com/zeromicro/go-zero) - cloud-native Go microservices framework with cli tool for productivity.  
+* [go-zero](https://github.com/zeromicro/go-zero) - cloud-native Go micro services framework with cli tool for productivity.  
 &#9733; 20.4k &#9733; **ON** &#9830; [go-zero.dev](https://go-zero.dev)
 
-* [Go Micro](https://github.com/asim/go-micro) - framework for distributed systems development. Provides the core requirements for distributed systems development including RPC and Event driven communication. The **Micro** philosophy is sane defaults with a pluggable architecture.  
+* [Go Micro](https://github.com/asim/go-micro) - framework for distributed systems development. Provides the core requirements for distributed systems development including RPC and Event driven communication. The Micro philosophy is sane defaults with a pluggable architecture.  
 &#9733; 19k &#9733; **ON** &#9830; [go-micro.dev](https://go-micro.dev/)
 
 * [Micro](https://github.com/micro/micro) - distributed cloud platform. Addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on.  
@@ -29,7 +29,7 @@ A curated list of awesome Go frameworks, libraries and software
 &#9733; 62.5k &#9733; **ON** &#9830; [gin-gonic.com](https://gin-gonic.com)
 
 * [echo](https://github.com/labstack/echo) - high performance, minimalist Go web frameworkHigh performance, minimalist Go web framework.  
-&#9733; 23.7k &#9733; **OM** &#9830; [echo.labstack.com](https://echo.labstack.com)
+&#9733; 23.7k &#9733; **ON** &#9830; [echo.labstack.com](https://echo.labstack.com)
 
 * [Iris Web Framework](https://github.com/kataras/iris) - fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel.  
 &#9733; 22.8k &#9733; **ON** &#9830; [iris-go.com](https://iris-go.com)
@@ -116,13 +116,25 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [recws](https://github.com/recws-org/recws) - reconnecting WebSocket is a websocket client based on gorilla/websocket that will automatically reconnect if the connection is dropped and keeps the connection alive - thread safe!
 
-## Applications
+## HTML template engines
 
-* [bild](https://github.com/anthonynsimon/bild) - Image processing algorithms  
-&#9733; 3.5k &#9733; **2021**
+* [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template. Inspired by the [Mako templates](http://www.makotemplates.org/) philosophy.  
+&#9733; 2.3k &#9733; **2021-09-15**
 
-* [goyoubbs](https://github.com/ego008/goyoubbs) - open source web forum built on Golang, fasthttp and leveldb.  
-&#9733; 382 &#9733; **2021** &#9830; [youbbs.org](https://youbbs.org/)
+* [pongo2](https://github.com/flosch/pongo2) - Django-syntax like templating-language ([official website](https://www.schlachter.tech/solutions/pongo2-template-engine/)).  
+&#9733; 2.1k &#9733; **2020-10-16** &#9830; [www.schlachter.tech/pongo2](https://www.schlachter.tech/pongo2)
+
+* [amber](https://github.com/eknkc/amber) - elegant templating engine for Go Programming Language It is inspired from HAML and Jade.  
+&#9733; 888 &#9733; **2017-10-10**
+
+* [plush](https://github.com/gobuffalo/plush) - The powerful template system that Go needs.  
+&#9733; 692 &#9733; **2021-11-19**
+
+* [goview](https://github.com/foolin/goview) - lightweight, minimalist and idiomatic template library based on golang html/template.  
+&#9733; 264 &#9733; **2020-03-02**
+
+* [Blocks](https://github.com/kataras/blocks) - simple, Go-idiomatic view engine based on html/template with some extra features.  
+&#9733; 28 &#9733; **2020-09-29**
 
 ## Toolkits & helpers
 
@@ -199,25 +211,13 @@ A curated list of awesome Go frameworks, libraries and software
 * [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool.  
 &#9733; 3k &#9733; **2020-10-15**
 
-## HTML template engines
+## Applications
 
-* [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template. Inspired by the [Mako templates](http://www.makotemplates.org/) philosophy.  
-&#9733; 2.3k &#9733; **2021-09-15**
+* [bild](https://github.com/anthonynsimon/bild) - Image processing algorithms  
+&#9733; 3.5k &#9733; **2021**
 
-* [pongo2](https://github.com/flosch/pongo2) - Django-syntax like templating-language ([official website](https://www.schlachter.tech/solutions/pongo2-template-engine/)).  
-&#9733; 2.1k &#9733; **2020-10-16** &#9830; [www.schlachter.tech/pongo2](https://www.schlachter.tech/pongo2)
-
-* [amber](https://github.com/eknkc/amber) - elegant templating engine for Go Programming Language It is inspired from HAML and Jade.  
-&#9733; 888 &#9733; **2017-10-10**
-
-* [plush](https://github.com/gobuffalo/plush) - The powerful template system that Go needs.  
-&#9733; 692 &#9733; **2021-11-19**
-
-* [goview](https://github.com/foolin/goview) - lightweight, minimalist and idiomatic template library based on golang html/template.  
-&#9733; 264 &#9733; **2020-03-02**
-
-* [Blocks](https://github.com/kataras/blocks) - simple, Go-idiomatic view engine based on html/template with some extra features.  
-&#9733; 28 &#9733; **2020-09-29**
+* [goyoubbs](https://github.com/ego008/goyoubbs) - open source web forum built on Golang, fasthttp and leveldb.  
+&#9733; 382 &#9733; **2021** &#9830; [youbbs.org](https://youbbs.org/)
 
 ## HTML utilities
 
