@@ -6,37 +6,54 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Go 101](https://go101.org/)
 
+## Microservices frameworks
+
+* [Go kit](https://github.com/go-kit/kit) - **programming toolkit** for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.  
+&#9733; 23.8k &#9733; **ON** &#9830; [gokit.io](https://gokit.io/)
+
+* [go-zero](https://github.com/zeromicro/go-zero) - cloud-native Go microservices framework with cli tool for productivity.  
+&#9733; 20.4k &#9733; **ON** &#9830; [go-zero.dev](https://go-zero.dev)
+
+* [Go Micro](https://github.com/asim/go-micro) - framework for distributed systems development. Provides the core requirements for distributed systems development including RPC and Event driven communication. The **Micro** philosophy is sane defaults with a pluggable architecture.  
+&#9733; 19k &#9733; **ON** &#9830; [go-micro.dev](https://go-micro.dev/)
+
+* [Micro](https://github.com/micro/micro) - distributed cloud platform. Addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on.  
+&#9733; 11.3k &#9733; **ON** &#9830; [micro.dev](https://micro.dev/)
+
+* [Micro Services](https://github.com/micro/services) - reusable real world Micro services. Micro services provide the fundamental building blocks for any products, apps or services. They can be used in isolation or combined to create a powerful distributed system. The services are intended to be consumed by each other using RPC and from the external world through a Micro API.  
+&#9733; 392 &#9733; **ON** &#9830; [m3o.com](https://m3o.com/)
+
 ## Web frameworks
 
 * [Gin Web Framework](https://github.com/gin-gonic/gin) - features a martini-like API with performance that is up to 40 times faster thanks to [httprouter](https://github.com/julienschmidt/httprouter). If you need performance and good productivity, you will love Gin.  
-&#9733; 53.1k &#9733; **2022** &#9830; [gin-gonic.com](https://gin-gonic.com)
-
-* [Iris Web Framework](https://github.com/kataras/iris) - fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel.  
-&#9733; 21.4k &#9733; **2022** &#9830; [iris-go.com](https://iris-go.com)
+&#9733; 62.5k &#9733; **ON** &#9830; [gin-gonic.com](https://gin-gonic.com)
 
 * [echo](https://github.com/labstack/echo) - high performance, minimalist Go web frameworkHigh performance, minimalist Go web framework.  
-&#9733; 21.1k &#9733; **2022** &#9830; [echo.labstack.com](https://echo.labstack.com)
+&#9733; 23.7k &#9733; **OM** &#9830; [echo.labstack.com](https://echo.labstack.com)
 
-* [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.  
-&#9733; 17.3k &#9733; **2022**
+* [Iris Web Framework](https://github.com/kataras/iris) - fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel.  
+&#9733; 22.8k &#9733; **ON** &#9830; [iris-go.com](https://iris-go.com)
 
 * [Fiber](https://github.com/gofiber/fiber) - Express inspired web framework built on top of [fasthttp](https://github.com/valyala/fasthttp), the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.  
-&#9733; 16.4k &#9733; **2022** &#9830; [gofiber.io](https://gofiber.io)
+&#9733; 22.2k &#9733; **ON** &#9830; [gofiber.io](https://gofiber.io)
+
+* [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http  
+&#9733; 18.3k &#9733; **ON**
 
 * [Kratos](https://github.com/go-kratos/kratos) - microservice-oriented governance framework implemented by golang, which offers convenient capabilities to help you quickly build a bulletproof application from scratch.  
-&#9733; 15.5k &#9733; **2022** &#9830; [go-kratos.dev](https://go-kratos.dev/)
+&#9733; 18.8k &#9733; **ON** &#9830; [go-kratos.dev](https://go-kratos.dev/)
 
-* [go-zero](https://github.com/zeromicro/go-zero) - web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.  
-&#9733; 12.6k &#9733; **2022** &#9830; [go-zero.dev](https://go-zero.dev)
+* [Atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths built on top of [fasthttp](https://github.com/valyala/fasthttp).  
+&#9733; 933 &#9733; **ON**
 
-* [Atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths built on top of [fasthttp](https://github.com/valyala/fasthttp).
-&#9733; 836 &#9733; **2022**
+* [gearbox](https://github.com/gogearbox/gearbox/blob/master/README.md) - web framework for building micro services written in Go with a focus on high performance. It's built on [fasthttp](https://github.com/valyala/fasthttp) which is **up to 10x faster** than net/http  
+&#9733; 666 &#9733; **2021** &#9830; [gogearbox.com](https://gogearbox.com/)
 
-* [Gear](https://github.com/teambition/gear) - A lightweight, composable and high performance web service framework  
+* [Gear](https://github.com/teambition/gear) - lightweight, composable and high performance web service framework for Go.  
 &#9733; 543 &#9733; **2022**
 
 * [Gramework](https://github.com/gramework/gramework) - Fast and Reliable Golang Web Framework  
-&#9733; 368 &#9733; **2021**
+&#9733; 369 &#9733; **2021**
 
 ## Multiplexers
 
@@ -78,23 +95,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [denco](https://github.com/naoina/denco) - The fast and flexible HTTP request router  
 &#9733; 216 &#9733; **2018**
-
-## Microservices frameworks
-
-* [Go kit](https://github.com/go-kit/kit) - **programming toolkit** for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.
-&#9733; 22.2k &#9733; **2021-09-23** &#9830; [gokit.io](https://gokit.io/)
-
-* [Go Micro](https://github.com/asim/go-micro) - framework for distributed systems development. Provides the core requirements for distributed systems development including RPC and Event driven communication. The **Micro** philosophy is sane defaults with a pluggable architecture.  
-&#9733; 17.9k &#9733; **2021-12-19** &#9830; [go-micro.dev](https://go-micro.dev/)
-
-* [Micro](https://github.com/micro/micro) - distributed cloud platform. Addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on.  
-&#9733; 10.9k &#9733; **2022-01-14** &#9830; [micro.dev](https://micro.dev/)
-
-* [gearbox](https://github.com/gogearbox/gearbox/blob/master/README.md) - web framework for building micro services written in Go with a focus on high performance. It's built on [fasthttp](https://github.com/valyala/fasthttp) which is **up to 10x faster** than net/http  
-&#9733; 610 &#9733; **2021** &#9830; [gogearbox.com](https://gogearbox.com/)
-
-* [Micro Services](https://github.com/micro/services) - programmable real world Micro services. Micro services provide the fundamental building blocks for any products, apps or services. They can be used in isolation or combined to create a powerful distributed system. The services are intended to be consumed by each other using RPC and from the external world through a Micro API.  
-&#9733; 392 &#9733; **2022** &#9830; [m3o.com](https://m3o.com/)
 
 ## Middleware & framework integrations
 
