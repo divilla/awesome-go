@@ -1,4 +1,4 @@
-# awesome-go
+# Awesome Go
 
 A curated list of awesome Go frameworks, libraries and software
 
@@ -6,7 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Go 101](https://go101.org/)
 
-## Microservices frameworks
+
+
+## Tutorials
+
+* [Going Infinite](https://github.com/asim/go-micro) - handling 1M WebSockets connections  
+&#9733; 5.2k &#9733; **2021**
+
+
+
+## Micro services frameworks
 
 * [Go kit](https://github.com/go-kit/kit) - programming toolkit for building micro services (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture, so you can focus on delivering business value.  
 &#9733; 23.8k &#9733; **ON** &#9830; [gokit.io](https://gokit.io/)
@@ -22,6 +31,18 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Micro Services](https://github.com/micro/services) - reusable real world Micro services. Micro services provide the fundamental building blocks for any products, apps or services. They can be used in isolation or combined to create a powerful distributed system. The services are intended to be consumed by each other using RPC and from the external world through a Micro API.  
 &#9733; 392 &#9733; **ON** &#9830; [m3o.com](https://m3o.com/)
+
+
+
+## Distributed Computing & Cloud tools & services
+
+* [Caddy](https://github.com/caddyserver/caddy) - fast, multi-platform web server with automatic HTTPS 
+&#9733; 42.6k &#9733; **ON** &#9830; [youbbs.org](https://youbbs.org/)
+
+* [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.  
+&#9733; 5.2k &#9733; **2022** &#9830; [luraproject.org](https://luraproject.org/)
+
+
 
 ## Web frameworks
 
@@ -55,6 +76,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [Gramework](https://github.com/gramework/gramework) - Fast and Reliable Golang Web Framework  
 &#9733; 369 &#9733; **2021**
 
+
+
 ## Multiplexers
 
 * [gorilla/mux](https://github.com/gorilla/mux) - powerful HTTP router and URL matcher for building Go web servers with gorilla  
@@ -63,13 +86,10 @@ A curated list of awesome Go frameworks, libraries and software
 * [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services  
 &#9733; 11k &#9733; **2022** &#9830; [go-chi.io](https://go-chi.io/)
 
-* [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.  
-&#9733; 4.9k &#9733; **2022** &#9830; [luraproject.org](https://luraproject.org/)
-
 * [bone](https://github.com/go-zoo/bone) - Lightning Fast HTTP Multiplexer  
 &#9733; 1.3k &#9733; **2019** &#9830; [go-zoo.github.io/bone](http://go-zoo.github.io/bone)
 
-* [pat](https://github.com/bmizerany/pat) - Sinatra style pattern muxer for Go's net/http library, formerly pat.go
+* [pat](https://github.com/bmizerany/pat) - Sinatra style pattern muxer for Go's net/http library, formerly pat.go  
 &#9733; 1.3k &#9733; **2021**
 
 * [Goji](https://github.com/goji/goji) - minimalistic and flexible HTTP request multiplexer  
@@ -96,13 +116,21 @@ A curated list of awesome Go frameworks, libraries and software
 * [denco](https://github.com/naoina/denco) - The fast and flexible HTTP request router  
 &#9733; 216 &#9733; **2018**
 
-## Middleware & framework integrations
+
+
+## MiddlewareS & framework add-ons
+
+* [Gorilla WebSocket](https://github.com/gorilla/websocket) - fast, well-tested and widely used WebSocket implementation
+&#9733; 7.2 &#9733; **2022** &#9830; Looking for new maintainer
 
 * [Negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware  
 &#9733; 7.2 &#9733; **2022**
 
-* [gorilla/sessions](https://github.com/gorilla/sessions) - provides cookie and filesystem sessions and infrastructure for custom session backends.  
-&#9733; 2.2k &#9733; **2020**
+* [WS](https://github.com/gobwas/ws) - Tiny WebSocket library  
+&#9733; 7.2 &#9733; **2021**
+
+* [sessions](https://github.com/gorilla/sessions) - provides cookie and filesystem sessions and infrastructure for custom session backends.  
+&#9733; 2.4k &#9733; **2022** &#9830; [www.gorillatoolkit.org/pkg/sessions](http://www.gorillatoolkit.org/pkg/sessions)
 
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) - encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.  
 &#9733; 555 &#9733; **2018**
@@ -112,9 +140,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [gin-cache](https://github.com/chenyahui/gin-cache) - high performance gin middleware to cache http response. Compared to gin-contrib/cache, It has a huge performance improvement.
 
-* [Gorilla WebSocket](https://github.com/gorilla/websocket) - Go implementation of the [WebSocket](http://www.rfc-editor.org/rfc/rfc6455.txt) protocol.
-
 * [recws](https://github.com/recws-org/recws) - reconnecting WebSocket is a websocket client based on gorilla/websocket that will automatically reconnect if the connection is dropped and keeps the connection alive - thread safe!
+
+
 
 ## HTML template engines
 
@@ -135,6 +163,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Blocks](https://github.com/kataras/blocks) - simple, Go-idiomatic view engine based on html/template with some extra features.  
 &#9733; 28 &#9733; **2020-09-29**
+
+
 
 ## Toolkits & helpers
 
@@ -176,6 +206,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [contextflight](https://github.com/exaring/contextflight) - singleflight wrapper supporting contexts  
 &#9733; 4 &#9733; **2021**
 
+
+
 ## CLI frameworks & configs
 
 * [cli](https://github.com/urfave/cli) - simple, fast, and fun package for building command line apps
@@ -190,10 +222,14 @@ A curated list of awesome Go frameworks, libraries and software
 * [GCli](https://github.com/gookit/gcli) - provides filtering, sanitizing, and conversion of Golang data.  
 &#9733; 233 &#9733; **2021-10-11** &#9830; [gookit.github.io/gcli](https://gookit.github.io/gcli/)
 
+
+
 ## Dependency Injection
 
 * [DI](https://github.com/gookit/di) - lightweight dependency injection container.  
 &#9733; 3 &#9733; **2018-10-06**
+
+
 
 ## Enterprise frameworks & toolkits
 
@@ -203,6 +239,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [Filter](https://github.com/gookit/filter) - provides filtering, sanitizing, and conversion of Golang data.  
 &#9733; 48
 
+
+
 ## Testing & Benchmarking
 
 * [Testify](https://github.com/stretchr/testify) - toolkit with common assertions and mocks that plays nicely with the standard library.  
@@ -211,6 +249,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool.  
 &#9733; 3k &#9733; **2020-10-15**
 
+
+
 ## Applications
 
 * [bild](https://github.com/anthonynsimon/bild) - Image processing algorithms  
@@ -218,6 +258,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [goyoubbs](https://github.com/ego008/goyoubbs) - open source web forum built on Golang, fasthttp and leveldb.  
 &#9733; 382 &#9733; **2021** &#9830; [youbbs.org](https://youbbs.org/)
+
+
 
 ## HTML utilities
 
@@ -233,9 +275,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [cascadia](https://github.com/andybalholm/cascadia) - CSS selectors Go library
 
+
+
 ## Crawlers, scrapers, spiders
 
 * [Colly](https://github.com/gocolly/colly) - Lightning Fast and Elegant Scraping Framework for Gophers. With Colly you can easily extract structured data from websites, which can be used for a wide range of applications, like data mining, data processing or archiving.
+
+
 
 ## Email utilities
 
@@ -243,6 +289,8 @@ A curated list of awesome Go frameworks, libraries and software
 &#9733; 900 &#9733; **2022** &#9830; **BEST**
 
 * [Hermes](https://github.com/matcornic/hermes) - Hermes is the Go port of the great [mailgen](https://github.com/eladnava/mailgen) engine for Node.js. Check their work, it's awesome! It's a package that generates clean, responsive HTML e-mails for sending transactional e-mails (welcome e-mails, reset password e-mails, receipt e-mails and so on), and associated plain text fallback.
+
+
 
 ## JSON parsers & validators
 
@@ -263,6 +311,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Pretty](https://github.com/tidwall/pretty) - provides fast methods for formatting JSON for human readability, or to compact JSON for smaller payloads.
 
+
+
 ## Data structures
 
 * [skipmap](https://github.com/zhangyunhao116/skipmap) - high-performance, scalable concurrent sorted map based on skip-list. Up to 10x faster than sync.Map in the typical pattern.
@@ -272,6 +322,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [golang-lru](https://github.com/hashicorp/golang-lru) - provides the lru package which implements a fixed-size thread safe LRU cache. (Hashicorp)
 
 * [Golang local cache](https://github.com/sima-land/go-local-cache) - simple local cache
+
+
 
 ## Embedded DB & Caching
 
@@ -311,6 +363,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [Cache](https://github.com/gookit/cache) - generic cache use and cache manage. Provide a unified usage API by packaging various commonly used drivers. Support File, Memory, Redis, Memcached and more.  
 &#9733; 55 &#9733; **2022-01-17** &#9830; [pkg.go.dev/github.com/gookit/cache](https://pkg.go.dev/github.com/gookit/cache)
 
+
+
 ## Key/Value Databases
 
 * [leveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.  
@@ -321,6 +375,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)  
 &#9733; 402 &#9733; **2020**
+
+
 
 ## Database & other drivers
 
@@ -336,9 +392,13 @@ A curated list of awesome Go frameworks, libraries and software
 * [Confluent's Golang Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-go) - client for Apache Kafka and the Confluent Platform.  
 &#9733; 3.4k &#9733; **2022** &#9733; **Like**
 
+
+
 ## Database migration
 
 * [migrate](https://github.com/golang-migrate/migrate) - database migrations. CLI and Golang library.
+
+
 
 ## Message brokers
 
@@ -353,6 +413,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [httpmq](https://github.com/hnlq715/httpmq) - simple HTTP message queue written in Go with goleveldb, just like httpsqs written in C with Tokyo Cabinet.  
 &#9733; 282 &#9733; **2022** &#9830; [hnlq715.github.io/httpmq](http://hnlq715.github.io/httpmq)
 
+
+
 ## RESTful API Server builders & generators
 
 * [apig](https://github.com/shimastripe/apig) - RESTful API server generator.
@@ -362,6 +424,8 @@ A curated list of awesome Go frameworks, libraries and software
 * [REST Layer](https://github.com/rs/rest-layer) - is an API framework heavily inspired by the excellent [Python Eve](http://python-eve.org). It helps you create a comprehensive, customizable, and secure REST (graph) API on top of pluggable [backend storages](#main-storage-handlers) with no boiler plate code so you can focus on your business logic.
 
 * [DBCore (ALPHA)](https://github.com/eatonphil/dbcore) - code generator build around database schemas and an API specification. Included with DBCore are templates for generating a Go REST API and React UI.
+
+
 
 ## SQL Builders
 
@@ -377,11 +441,15 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [MaxMind DB Reader](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
 
+
+
 ## Validators
 
 * [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
 
 * [govalidator](https://github.com/asaskevich/govalidator) - package of validators and sanitizers for strings, numerics, slices and structs.
+
+
 
 ## Code generators
 
@@ -391,9 +459,7 @@ A curated list of awesome Go frameworks, libraries and software
 * [MessagePack Code Generator](https://github.com/tinylib/msgp) - code generator for MessagePack / msgpack.org[Go]  
 &#9733; 1.5k &#9733; **2022**
 
-## Web servers
 
-* [Caddy](https://github.com/caddyserver/caddy) - powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 
 ## State Machines
 
