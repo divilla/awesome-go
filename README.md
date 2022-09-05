@@ -6,8 +6,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [Go 101](https://go101.org/)
   
-  
-  
+
+
 ## Tutorials
 
 * [Going Infinite](https://github.com/asim/go-micro) - handling 1M WebSockets connections  
