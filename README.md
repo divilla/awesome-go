@@ -5,9 +5,9 @@ A curated list of awesome Go frameworks, libraries and software
 * [GolangRepo](https://golangrepo.com)
 
 * [Go 101](https://go101.org/)
-
-
-
+  
+  
+  
 ## Tutorials
 
 * [Going Infinite](https://github.com/asim/go-micro) - handling 1M WebSockets connections  
@@ -36,7 +36,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Distributed Computing & Cloud tools & services
 
-* [Caddy](https://github.com/caddyserver/caddy) - fast, multi-platform web server with automatic HTTPS 
+* [Caddy](https://github.com/caddyserver/caddy) - fast, multi-platform web server with automatic HTTPS  
 &#9733; 42.6k &#9733; **ON** &#9830; [youbbs.org](https://youbbs.org/)
 
 * [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.  
