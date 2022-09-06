@@ -13,9 +13,6 @@ A curated list of awesome Go frameworks, libraries and software
 * [Going Infinite](https://github.com/asim/go-micro) - handling 1M WebSockets connections  
 &#9733; 5.2k &#9733; **2021**
 
-* [cleanhttp](https://github.com/hashicorp/go-cleanhttp) - standard library contains a default http.Client called http.DefaultClient. It is a common idiom in Go code to start with http.DefaultClient and tweak it as necessary,
-&#9733; 258k &#9733; **ON**
-
 * [Concurrency](https://blogtitle.github.io/categories/concurrency) - Concurrency Patterns  
 
 
@@ -390,6 +387,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [BBolt](https://github.com/etcd-io/bbolt) - an embedded key/value database for Go.  
 &#9733; 5.1k &#9733; **2021-06-17** &#9830; [go.etcd.io/bbolt](https://go.etcd.io/bbolt)
+
+* [BuntDb](https://github.com/tidwall/buntdb) - embeddable, in-memory key/value database for Go with custom indexing and geospatial support  
+&#9733; 3.9k &#9733; **ON**
 
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - document database engine that uses JSON as document notation; it has a powerful query processor that supports advanced set operations; it can be embedded into your program, or run a stand-alone server using HTTP (2017)  
 &#9733; 2.7k &#9733; **2021-05-93**
