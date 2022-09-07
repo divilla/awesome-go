@@ -28,6 +28,9 @@ A curated list of awesome Go frameworks, libraries and software
 * [Go Micro](https://github.com/asim/go-micro) - framework for distributed systems development. Provides the core requirements for distributed systems development including RPC and Event driven communication. The Micro philosophy is sane defaults with a pluggable architecture.  
 &#9733; 19k &#9733; **ON** &#9830; [go-micro.dev](https://go-micro.dev/)
 
+* [Hyperledger Fabric](https://github.com/hyperledger/fabric) - enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.  
+&#9733; 13.9k &#9733; **ON** &#9830; [wiki.hyperledger.org/display/fabric](https://wiki.hyperledger.org/display/fabric)
+
 * [Micro](https://github.com/micro/micro) - distributed cloud platform. Addresses the key requirements for building services in the cloud. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals with the complexity of distributed systems and provides simpler programmable abstractions to build on.  
 &#9733; 11.3k &#9733; **ON** &#9830; [micro.dev](https://micro.dev/)
 
@@ -36,19 +39,31 @@ A curated list of awesome Go frameworks, libraries and software
 
 
 
-## Distributed Computing, Microservices & Cloud - Tools & Services
+## Networking, Distributed, Microservices & Cloud - Tools & Services
 
 * [Caddy](https://github.com/caddyserver/caddy) - fast, multi-platform web server with automatic HTTPS  
 &#9733; 42.6k &#9733; **ON** &#9830; [youbbs.org](https://youbbs.org/)
 
-* [Consul](https://github.com/hashicorp/consul) - distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.  
-&#9733; 25.3 &#9733; **ON** &#9830; [consul.io](https://www.consul.io/)
+* [etcd](https://github.com/etcd-io/etcd) - distributed reliable key-value store for the most critical data of a distributed system.  
+&#9733; 41.1 &#9733; **ON** &#9830; [etcd.io](https://etcd.io/)
+
+* [dapr](https://github.com/dapr/dapr) - portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.  
+&#9733; 19.2k &#9733; **ON** &#9830; [dapr.io](https://dapr.io/)
 
 * [Vault](https://github.com/hashicorp/vault) - tool for secrets management, encryption as a service, and privileged access management.  
-&#9733; 17.5 &#9733; **ON** &#9830; [vaultproject.io](https://www.vaultproject.io/)
+&#9733; 17.5k &#9733; **ON** &#9830; [vaultproject.io](https://www.vaultproject.io/)
+
+* [Jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform.  
+&#9733; 17.5k &#9733; **ON** &#9830; [jaegertracing.io](https://www.jaegertracing.io/)
 
 * [Nomad](https://github.com/hashicorp/nomad) - easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.   
 &#9733; 12.2k &#9733; **ON** &#9830; [nomadproject.io](https://www.nomadproject.io/)
+
+* [Distributed Transactions Manager](https://github.com/dtm-labs/dtm) - distributed transaction framework which provides cross-service eventual data consistency. It provides saga, tcc, xa, 2-phase message, outbox, workflow patterns for a variety of application scenarios. It also supports multiple languages and multiple store engine  
+&#9733; 7.4k &#9733; **ON** &#9830; [d.dtm.pub](http://d.dtm.pub/)
+
+* [Nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.  
+&#9733; 6.2k &#9733; **ON** &#9830; [heroiclabs.com](https://heroiclabs.com/)
 
 * [evio](https://github.com/tidwall/evio) - Fast event-loop networking  
 &#9733; 5.5k &#9733; **2022**
@@ -58,6 +73,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.  
 &#9733; 5.2k &#9733; **2022** &#9830; [luraproject.org](https://luraproject.org/)
+
+* [Mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!  
+&#9733; 3k &#9733; **ON** &#9830; [purpleidea.com/tags/mgmtconfig](https://purpleidea.com/tags/mgmtconfig/)
 
 * [uhaha](https://github.com/tidwall/uhaha) - framework for building highly available Raft-based data applications in Go. Small footprint, TLS and Auth password support. Multiple examples to help jumpstart integration, including a Key-value DB, a Timeseries DB, and a Ticket Service.  
 &#9733; 364 &#9733; **2021**
@@ -370,26 +388,60 @@ A curated list of awesome Go frameworks, libraries and software
 
 
 
-## Distributed Data Stores - like etcd or zookeeper
+## Distributed Data Stores
+
+* [Dgraph](https://github.com/dgraph-io/dgraph) - horizontally scalable and distributed GraphQL database with a graph backend. It provides ACID transactions, consistent replication, and linearizable reads. It's built from the ground up to perform for a rich set of queries.  
+&#9733; 18.4k &#9733; **ON**  &#9830; [dgraph.io](https://dgraph.io/)
 
 * [Doozer](https://github.com/ha/doozerd) - consistent distributed data store.  
 &#9733; 3.2k &#9733; **2013**
 
+* [Olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.  
+&#9733; 2.3k &#9733; **2022**
+
+* [IceFireDB](https://github.com/IceFireDB/IceFireDB) - database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.  
+&#9733; 912 &#9733; **ON** &#9830; [www.icefiredb.com](https://www.icefiredb.com/)
+
+* [GhostDB](https://github.com/jakekgrog/GhostDB) - distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. Supports persistance and point in time recovery.  
+&#9733; 725 &#9733; **2021** &#9830; [www.ghostdbcache.com](http://www.ghostdbcache.com/)
+
+* [Redwood](https://github.com/redwood/redwood) - highly-configurable, distributed, realtime database that manages a state tree shared among many peers.  
+&#9733; 581 &#9733; **2022**
+
+* [ZanRedisDB](https://github.com/youzan/ZanRedisDBx) - distributed fault-tolerant key-value database Compatible with Redis.  
+&#9733; 581 &#9733; **ON**
+
+* [Vasto](https://github.com/chrislusf/vasto) - distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption. Vasto scales embedded RocksDB into a distributed key-value store, adding sharding, replication.  
+&#9733; 239 &#9733; **2019**
 
 
-## Embedded DB & Caching
 
-* [BadgerDB](https://github.com/dgraph-io/badger) - an embeddable, persistent and fast key-value (KV) database written in pure Go. Fastest read speed. Supports TTL. Supports concurrent ACID transactions with serializable snapshot isolation (SSI) guarantees. (2021 - reference)  
-&#9733; 10.3k &#9733; **2021-10-07** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
+## Key/Value Databases
 
-* [immudb](https://github.com/codenotary/immudb) - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history  
-&#9733; 6.8k &#9733; **2022-01-12**  &#9830; [docs.immudb.io/master](https://docs.immudb.io/master/)
+* [BadgerDB](https://github.com/dgraph-io/badger) - embeddable, persistent and fast key-value (KV) database written in pure Go. It is the underlying database for Dgraph, a fast, distributed graph database. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.  
+&#9733; 11.2k &#9733; **ON** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
 
 * [BBolt](https://github.com/etcd-io/bbolt) - an embedded key/value database for Go.  
-&#9733; 5.1k &#9733; **2021-06-17** &#9830; [go.etcd.io/bbolt](https://go.etcd.io/bbolt)
+&#9733; 5.8k &#9733; **2022** &#9830; [go.etcd.io/bbolt](https://go.etcd.io/bbolt)
+
+* [LevelDB](https://github.com/syndtr/goleveldb) - key/value database in Go.  
+&#9733; 4.9k &#9733; **ON**
 
 * [BuntDb](https://github.com/tidwall/buntdb) - embeddable, in-memory key/value database for Go with custom indexing and geospatial support  
 &#9733; 3.9k &#9733; **ON**
+
+* [Pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database.  
+&#9733; 3.1k &#9733; **ON**
+
+* [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)  
+&#9733; 402 &#9733; **2020**
+
+
+
+## Databases
+
+* [immudb](https://github.com/codenotary/immudb) - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history  
+&#9733; 6.8k &#9733; **2022-01-12**  &#9830; [docs.immudb.io/master](https://docs.immudb.io/master/)
 
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - document database engine that uses JSON as document notation; it has a powerful query processor that supports advanced set operations; it can be embedded into your program, or run a stand-alone server using HTTP (2017)  
 &#9733; 2.7k &#9733; **2021-05-93**
@@ -397,23 +449,11 @@ A curated list of awesome Go frameworks, libraries and software
 * [go-memdb](https://github.com/hashicorp/go-memdb) - in-memory database built on immutable radix trees  
 &#9733; 2.5k &#9733; **2022**
 
-* [Olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.  
-&#9733; 2.3k &#9733; **2022**
-
 * [column](https://github.com/kelindar/column) - high-performance, columnar, in-memory storage engine that supports fast querying, update and iteration with zero-allocations, bitmap indexing, TTL, transactions and streaming messages. (2021 - reference)  
 &#9733; 856 &#9733; **2022-01-01** &#9830; [blog.dgraph.io/post/badger](https://blog.dgraph.io/post/badger/)
 
-* [IceFireDB](https://github.com/IceFireDB/IceFireDB) - distributed disk storage database based on Raft and Redis protocol.  
-&#9733; 724 &#9733; **2022-01-13** &#9830; [www.icefiredb.com](https://www.icefiredb.com/)
-
 * [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency. Supports: Hashed buckets, Layered Cache & TTL.  
 &#9733; 877 &#9733; **2021-02-06**
-
-* [GhostDB](https://github.com/jakekgrog/GhostDB) - distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. Supports persistance and point in time recovery.  
-&#9733; 725 &#9733; **2021** &#9830; [www.ghostdbcache.com](http://www.ghostdbcache.com/)
-
-* [Redwood](https://github.com/redwood/redwood) - highly-configurable, distributed, realtime database that manages a state tree shared among many peers.  
-&#9733; 581 &#9733; **2022**
 
 * [vellum](https://github.com/blevesearch/vellum) - library implementing an FST (finite state transducer)  
 &#9733; 85 &#9733; **2021**
@@ -423,20 +463,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 
 
-## Key/Value Databases
-
-* [leveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.  
-&#9733; 4.9k &#9733; **2021**
-
-* [Pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database.  
-&#9733; 2.6k &#9733; **2022**
-
-* [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)  
-&#9733; 402 &#9733; **2020**
-
-
-
-## Database & Messsage brokers Drivers & Other
+## Drivers
 
 * [go-mysql](https://github.com/go-mysql-org/go-mysql) - pure go library to handle MySQL network protocol and replication.  
   * Slave replication
@@ -459,9 +486,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Message brokers
 
-* [Mist](https://github.com/nanopack/mist) - distributed, tag-based pub-sub service for modern web applications and container-driven cloud.
+* [NSQ](https://github.com/nsqio/nsq) - realtime distributed messaging platform.  
+&#9733; 22.7k &#9733; **ON** &#9830; [nsq.io](https://nsq.io/)
+
+* [Mist](https://github.com/nanopack/mist) - distributed, tag-based pub-sub service for modern web applications and container-driven cloud.  
+&#9733; 652 &#9733; **ON**
 
 * [yarpc](https://github.com/yarpc/yarpc-go) - message passing platform for Go
+&#9733; 362 &#9733; **ON**
 
 * [Event](https://github.com/gookit/event) - lightweight event manager and dispatcher
 
