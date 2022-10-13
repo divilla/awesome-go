@@ -465,6 +465,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## Drivers
 
+* [Go-MySQL-Driver](https://github.com/go-sql-driver/mysql) - MySQL-Driver for Go's database/sql package.  
+&#9733; 12.6k &#9733; **ON** &#9733; [pkg.go.dev/github.com/go-sql-driver/mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql)
+
 * [go-mysql](https://github.com/go-mysql-org/go-mysql) - pure go library to handle MySQL network protocol and replication.  
   * Slave replication
   * Incremental dumping
@@ -474,13 +477,34 @@ A curated list of awesome Go frameworks, libraries and software
 
   &#9733; 3.7k &#9733; **2022** &#9733; **Like**
 
+* [go-mysql](https://github.com/percona/go-mysql) - packages to help build tools for MySQL. For example, there's a slow log parser and a query fingerprinter.
+
+* [GORM](https://github.com/hashicorp/gorm) - fantastic ORM library for Golang, aims to be developer friendly.  
+&#9733; 0 &#9733; **2021**
+
 * [Confluent's Golang Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-go) - client for Apache Kafka and the Confluent Platform.  
 &#9733; 3.4k &#9733; **2022** &#9733; **Like**
 
 * [migrate](https://github.com/golang-migrate/migrate) - database migrations. CLI and Golang library.
 
-* [GORM](https://github.com/hashicorp/gorm) - fantastic ORM library for Golang, aims to be developer friendly.  
-&#9733; 0 &#9733; **2021**
+
+
+## SQL Builders
+
+* [gosql](https://github.com/rushteam/gosql) - orm and sql builder
+
+* [dbr](https://github.com/mailru/dbr) - query builder and other additions to Go's database/sql for super fast performance and convenience.
+
+* [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - db driver and query builder (reference)
+
+* [fuckdb](https://github.com/hantmac/fuckdb) - generates a go compatible struct type with the required column names, data types, and annotations just fill in the database information in the web UI. Making go web develop very easy by saving a lot of time writing structure.fuckdbis based/inspired by the work of Seth Shelnutt's db2struct, and Db2Struct is based/inspired by the work of ChimeraCoder's gojson package gojson.
+
+* [DBQ](https://github.com/rocketlaunchr/dbq) - lightweight Dapper like db driver for PostgreSQl and MySQL
+
+* [MaxMind DB Reader](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
+
+* [scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more. It integrates with 'database/sql'
+&#9733; 727 &#9733; **ON** &#9733; **Like**
 
 
 
@@ -513,22 +537,6 @@ A curated list of awesome Go frameworks, libraries and software
 * [REST Layer](https://github.com/rs/rest-layer) - is an API framework heavily inspired by the excellent [Python Eve](http://python-eve.org). It helps you create a comprehensive, customizable, and secure REST (graph) API on top of pluggable [backend storages](#main-storage-handlers) with no boiler plate code so you can focus on your business logic.
 
 * [DBCore (ALPHA)](https://github.com/eatonphil/dbcore) - code generator build around database schemas and an API specification. Included with DBCore are templates for generating a Go REST API and React UI.
-
-
-
-## SQL Builders
-
-* [gosql](https://github.com/rushteam/gosql) - orm and sql builder
-
-* [dbr](https://github.com/mailru/dbr) - query builder and other additions to Go's database/sql for super fast performance and convenience.
-
-* [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - db driver and query builder (reference)
-
-* [fuckdb](https://github.com/hantmac/fuckdb) - generates a go compatible struct type with the required column names, data types, and annotations just fill in the database information in the web UI. Making go web develop very easy by saving a lot of time writing structure.fuckdbis based/inspired by the work of Seth Shelnutt's db2struct, and Db2Struct is based/inspired by the work of ChimeraCoder's gojson package gojson.
-
-* [DBQ](https://github.com/rocketlaunchr/dbq) - lightweight Dapper like db driver for PostgreSQl and MySQL
-
-* [MaxMind DB Reader](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
 
 
 
