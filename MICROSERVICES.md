@@ -1,5 +1,13 @@
 # Microservice
 
+## Articles
+
+* [Effective Microservices: 10 Best Practices](https://towardsdatascience.com/effective-microservices-10-best-practices-c6e4ba0c6ee2)
+
+* [Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+
+
+
 ## Ingress
 
 * An API object that manages external access to the services in a cluster, typically HTTP.

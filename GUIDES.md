@@ -1,5 +1,13 @@
 # Guides
 
+## Databases
+
+* [DB-Engines Rankings](https://db-engines.com/en/ranking)
+
+## Open API
+
+* [OpenAPI Initiative](https://oai.github.io/Documentation/)
+
 ## Markdown guides
 
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -19,6 +27,10 @@ go mod tidy
 ```
 
 * [Regex Cheat-sheet](https://yourbasic.org/golang/regexp-cheat-sheet/)
+
+* [Sam Newman Blog](https://samnewman.io/patterns/architectural/bff/) - Pattern: Backends For Frontends
+
+* [ZetCode](https://zetcode.com/all/#go)
 
 ## Gist
 
