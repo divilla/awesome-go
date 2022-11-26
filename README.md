@@ -234,8 +234,11 @@ A curated list of awesome Go frameworks, libraries and software
 * [bild](https://github.com/anthonynsimon/bild) - Image processing algorithms  
 &#9733; 3.5k &#9733; **2022**
 
-* [memberlist](https://github.com/hashicorp/memberlist) - gossip based membership and failure detection   
+* [memberlist](https://github.com/hashicorp/memberlist) - gossip based membership and failure detection.  
 &#9733; 2.9k &#9733; **ON**
+
+* [FSM](https://github.com/looplab/fsm) - finite state machine.  
+&#9733; 2.1k &#9733; **ON**
 
 * [Go Util](https://github.com/gookit/goutil) - utils: string, array/slice, map, format, CLI, ENV, filesystem, testing and more.  
 &#9733; 481 &#9733; **2022** &#9830; [github.com/gookit/goutil](https://pkg.go.dev/github.com/gookit/goutil)
@@ -243,7 +246,13 @@ A curated list of awesome Go frameworks, libraries and software
 * [objx](https://github.com/stretchr/objx) - package for dealing with maps, slices, JSON and other data.  
 &#9733; 460 &#9733; **2020**
 
+* [mapper](https://github.com/devfeel/mapper) - simple and easy go tools for auto mapper struct to map, struct to struct, slice to slice, map to slice, map to json.  
+&#9733; 293 &#9733; **2022**
+
 * [fpGo](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Golang.  
+&#9733; 289 &#9733; **2022**
+
+* [JSON-RPC 2.0 Client](https://github.com/ybbus/jsonrpc) - rpc client using json as data format over http. The implementation is based on the JSON-RPC 2.0 specification: [www.jsonrpc.org/specification](http://www.jsonrpc.org/specification).  
 &#9733; 289 &#9733; **2022**
 
 * [Events](https://github.com/gookit/event) - lightweight event manager and dispatcher  
