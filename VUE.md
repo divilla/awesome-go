@@ -1,39 +1,27 @@
 # Vue.js
 
-## SPA Frameworks
+## SPA Frameworks - Vue 3
 
 * [Vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework  
-&#9733; 33.6k &#9733; **2022** &#9830; [vuetifyjs.com](https://vuetifyjs.com)
+&#9733; 36.7k &#9733; **2023** &#9830; [vuetifyjs.com](https://vuetifyjs.com)
 
 * [Quasar](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time.  
-&#9733; 20.6k &#9733; **2022** &#9830; [quasar.dev](https://quasar.dev)
-
-* [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - enterprise-class UI components based on Ant Design and Vue.  
-&#9733; 16.3k &#9733; **2022** &#9830; **Top** &#9830; [antdv.com](https://antdv.com/)
+&#9733; 20.6k &#9733; **2023** &#9830; [quasar.dev](https://quasar.dev)
 
 * [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.  
-&#9733; 14.1k &#9733; **2022** &#9830; **Like** &#9830; [headlessui.dev](https://headlessui.dev)
-
-* [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.  
-&#9733; 13.7k &#9733; **2022** &#9830; [bootstrap-vue.org](https://bootstrap-vue.org)
-
-* [Vue Material](https://github.com/vuematerial/vue-material) - Material design framework.  
-&#9733; 9.6k &#9733; **2021** &#9830; **Like** &#9830; [www.creative-tim.com/vuematerial](https://www.creative-tim.com/vuematerial)
-
-* [Buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.  
-&#9733; 9.1k &#9733; **2022** &#9830; **Like** &#9830; [buefy.org](https://buefy.org/)
-
-* [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.  
-&#9733; 8.4k &#9733; **2022** &#9830; **Top** &#9830; [www.naiveui.com](https://www.naiveui.com/)
-
-* [Vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2  
-&#9733; 5.4k &#9733; **2020** &#9830; **Like** &#9830; [lusaxweb.github.io/vuesax](https://lusaxweb.github.io/vuesax)
+&#9733; 19.5k &#9733; **2023** &#9830; **Like** &#9830; [headlessui.dev](https://headlessui.dev)
 
 * [Element Plus](https://github.com/element-plus/element-plus) - Vue.js 3 UI Library made by Element team  
-&#9733; 3.6k &#9733; **2022** &#9830; **Like** &#9830; [element-plus.org](https://element-plus.org/)
+&#9733; 19.1k &#9733; **2023** &#9830; **Top** &#9830; [element-plus.org](https://element-plus.org/)
+
+* [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - enterprise-class UI components based on Ant Design and Vue.  
+&#9733; 17.9k &#9733; **2023** &#9830; **Top** &#9830; [antdv.com](https://antdv.com/)
+
+* [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.  
+&#9733; 12.1k &#9733; **2023** &#9830; **Top** &#9830; [www.naiveui.com](https://www.naiveui.com/)
 
 * [PrimeVue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library  
-&#9733; 2.1k &#9733; **2022** &#9830; **Top** &#9830; [www.primefaces.org/primevue](https://www.primefaces.org/primevue)
+&#9733; 4.5k &#9733; **2023** &#9830; **Top** &#9830; [www.primefaces.org/primevue](https://www.primefaces.org/primevue)
 
 * [Vue-Tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue UI components with configurable classes ready for TailwindCSS  
 &#9733; 1.7k &#9733; **2021** &#9830; [www.vue-tailwind.com](https://www.vue-tailwind.com)
@@ -55,6 +43,20 @@
 
 * [@idux](https://github.com/IDuxFE/idux) - Vue.js 3 UI Component Library  
 &#9733; 266 &#9733; **2022** &#9830; **Like** &#9830; [idux.site](https://idux.site)
+
+## SPA Frameworks - Vue 2
+
+* [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.  
+&#9733; 14.2k &#9733; **2023** &#9830; [bootstrap-vue.org](https://bootstrap-vue.org)
+
+* [Vue Material](https://github.com/vuematerial/vue-material) - Material design framework.  
+&#9733; 9.7k &#9733; **2023** &#9830; **Like** &#9830; [www.creative-tim.com/vuematerial](https://www.creative-tim.com/vuematerial)
+
+* [Buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.  
+&#9733; 9.4k &#9733; **2023** &#9830; **Like** &#9830; [buefy.org](https://buefy.org/)
+
+* [Vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2  
+&#9733; 5.5k &#9733; **2020** &#9830; **Like** &#9830; [lusaxweb.github.io/vuesax](https://lusaxweb.github.io/vuesax)
 
 ## Static Framework Generators
 
