@@ -23,26 +23,23 @@
 * [PrimeVue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library  
 &#9733; 4.5k &#9733; **2023** &#9830; **Top** &#9830; [www.primefaces.org/primevue](https://www.primefaces.org/primevue)
 
-* [Vue-Tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue UI components with configurable classes ready for TailwindCSS  
-&#9733; 1.7k &#9733; **2021** &#9830; [www.vue-tailwind.com](https://www.vue-tailwind.com)
-
 * [Arco Design](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design  
-&#9733; 1.1k &#9733; **2022** &#9830; **Chinese** &#9830; [arco.design/vue](https://arco.design/vue)
+&#9733; 1.8k &#9733; **2023** &#9830; **Chinese** &#9830; [arco.design/vue](https://arco.design/vue)
 
 * [Inkline](https://github.com/inkline/inkline) - Vue.js 3 intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable  
-&#9733; 980 &#9733; **2022** &#9830; **Top** &#9830; [inkline.io](https://inkline.io/)
+&#9733; 1.2k &#9733; **2023** &#9830; **Top** &#9830; [inkline.io](https://inkline.io/)
 
 * [VEUI](https://github.com/ecomfe/veui) - Vue.js 3 Enterprise UI  
-&#9733; 918 &#9733; **2022** &#9830; [veui.dev](https://veui.dev/)
+&#9733; 1k &#9733; **2023** &#9830; [veui.dev](https://veui.dev/)
 
 * [Oruga](https://github.com/oruga-ui/oruga) - lightweight library of UI components for Vue.js without CSS framework dependency  
-&#9733; 669 &#9733; **2022** &#9830; **Like** &#9830; [oruga.io](https://oruga.io)
+&#9733; 1k &#9733; **2023** &#9830; **Like** &#9830; [oruga.io](https://oruga.io)
 
 * [TDesign](https://github.com/Tencent/tdesign-vue) - Vue.js 3 UI components lib for TDesign.  
-&#9733; 669 &#9733; **2022** &#9830; [tdesign.tencent.com/vue](https://tdesign.tencent.com/vue)
+&#9733; 700 &#9733; **2023** &#9830; [tdesign.tencent.com/vue](https://tdesign.tencent.com/vue)
 
 * [@idux](https://github.com/IDuxFE/idux) - Vue.js 3 UI Component Library  
-&#9733; 266 &#9733; **2022** &#9830; **Like** &#9830; [idux.site](https://idux.site)
+&#9733; 400 &#9733; **2023** &#9830; **Like** &#9830; [idux.site](https://idux.site)
 
 ## SPA Frameworks - Vue 2
 
