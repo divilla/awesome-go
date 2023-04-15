@@ -278,11 +278,19 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## JSON parsers & validators
 
+* [Golang Serialization Benchmark](https://github.com/smallnest/gosercomp)
+
 * [jsoniter](https://github.com/json-iterator/go) - high-performance 100% compatible drop-in replacement of "encoding/json".  
 &#9733; 10k
 
 * [easyjson](https://github.com/mailru/easyjson) - fast and easy way to marshal/unmarshal Go structs to/from JSON without the use of reflection. Ability to customize the generated code by providing options not available with the standard encoding/json package, such as generating "snake_case" names or enabling omitempty behavior by default.  
-&#9733; 3.5k
+&#9733; 4.1k
+
+* [ffjson: faster JSON for Go](https://github.com/pquerna/ffjson) - faster JSON serialization for Go  
+&#9733; 2.9k
+
+* [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go  
+&#9733; 2.2k &#9733; **2023** &#9830; **Like** &#9830;
 
 * [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection. Outperforms [GJSON](https://github.com/tidwall/gjson) when accessing multiple unrelated fields.  
 &#9733; 1.4k

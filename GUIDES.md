@@ -20,6 +20,10 @@
 
 ## Go
 
+* [Practical Go Lessons](https://www.practical-go-lessons.com)
+* [Protocol Buffers Documentation](https://protobuf.dev/getting-started/gotutorial/)
+* [Protobuf example](https://github.com/kfelter/protobuf-example)
+
 ```Shell
 # Reload packages
 rm go.sum
