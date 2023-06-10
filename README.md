@@ -77,6 +77,9 @@ A curated list of awesome Go frameworks, libraries and software
 * [Mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!  
 &#9733; 3k &#9733; **ON** &#9830; [purpleidea.com/tags/mgmtconfig](https://purpleidea.com/tags/mgmtconfig/)
 
+* [Polycube](https://github.com/polycube-network/polycube) - eBPF/XDP-based software framework that provides fast and lightweight network functions such as bridges, routers, firewalls, and others.  
+&#9733; 447 &#9733; **2022** &#9830; [polycube-network.readthedocs.io](https://polycube-network.readthedocs.io/en/latest/index.html)
+
 * [uhaha](https://github.com/tidwall/uhaha) - framework for building highly available Raft-based data applications in Go. Small footprint, TLS and Auth password support. Multiple examples to help jumpstart integration, including a Key-value DB, a Timeseries DB, and a Ticket Service.  
 &#9733; 364 &#9733; **2021**
 
