@@ -116,6 +116,49 @@ A curated list of awesome Go frameworks, libraries and software
 
 
 
+## CLI frameworks
+
+* [Cobra](https://github.com/spf13/cobra) - library for creating powerful modern CLI applications.  
+&#9733; 34.6k &#9733; **ON** &#9830; [cobra.dev](https://cobra.dev)
+
+* [Bubble Tea](https://github.com/charmbracelet/bubbletea) - powerful little TUI framework  
+&#9733; 21.6k &#9733; **ON** &#9830;
+
+* [urfave](https://github.com/urfave/cli) - simple, fast, and fun package for building command line apps  
+&#9733; 21.1k &#9733; **ON** &#9830; [cli.urfave.org](https://cli.urfave.org/)
+
+* [tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets  
+&#9733; 9.2k &#9733; **ON** &#9830; [wiki](https://github.com/rivo/tview/wiki)
+
+* [Katana](https://github.com/projectdiscovery/katana) - next-generation crawling and spidering framework  
+&#9733; 7.8k &#9733; **ON** &#9830;
+
+* [Ferret](https://github.com/MontFerret/ferret) - Declarative web scraping  
+&#9733; 5.5k &#9733; **ON** &#9830; [montferret.dev](https://www.montferret.dev/)
+
+* [Glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps  
+&#9733; 2k &#9733; **ON** &#9830;
+
+* [Go CLI](https://github.com/mitchellh/cli) - library for implementing command-line interfaces in Go. cli is the library that powers the CLI for Packer, Consul, Vault, Terraform, Nomad, and more.  
+&#9733; 1.7k &#9733; **ON** &#9830;
+
+* [ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.  
+&#9733; 1.5k &#9733; **2021** &#9830;
+
+* [Ignite CLI](https://github.com/ignite/cli) - all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain  
+&#9733; 1.2k &#9733; **ON** &#9830; [ignite.com](https://ignite.com/)
+
+* [Command line interface](https://github.com/mkideal/cli) - package for building command line app  
+&#9733; 710 &#9733; **ON** &#9830;
+
+* [CLI for ChatGPT](https://github.com/j178/chatgpt) - elegant interactive CLI for ChatGPT  
+&#9733; 618 &#9733; **ON** &#9830;
+
+* [Grumble](https://github.com/desertbit/grumble) - powerful modern CLI and SHELL  
+&#9733; 511 &#9733; **ON** &#9830;
+
+
+
 ## Multiplexers
 
 * [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http  
