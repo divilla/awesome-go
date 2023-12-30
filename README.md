@@ -136,6 +136,9 @@ A curated list of awesome Go frameworks, libraries and software
 * [Ferret](https://github.com/MontFerret/ferret) - Declarative web scraping  
 &#9733; 5.5k &#9733; **ON** &#9830; [montferret.dev](https://www.montferret.dev/)
 
+* [PTerm](https://github.com/pterm/pterm) - modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more  
+&#9733; 4.4k &#9733; **ON** &#9830; [pterm.sh](https://pterm.sh/)
+
 * [Glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps  
 &#9733; 2k &#9733; **ON** &#9830;
 
