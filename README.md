@@ -145,6 +145,9 @@ A curated list of awesome Go frameworks, libraries and software
 * [Go CLI](https://github.com/mitchellh/cli) - library for implementing command-line interfaces in Go. cli is the library that powers the CLI for Packer, Consul, Vault, Terraform, Nomad, and more.  
 &#9733; 1.7k &#9733; **ON** &#9830;
 
+* [Termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications  
+&#9733; 1.6k &#9733; **ON** &#9830;
+
 * [ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.  
 &#9733; 1.5k &#9733; **2021** &#9830;
 
