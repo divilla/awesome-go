@@ -118,6 +118,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## CLI frameworks
 
+* [Awesome TUIs](https://github.com/rothgar/awesome-tuis)
+
 * [Cobra](https://github.com/spf13/cobra) - library for creating powerful modern CLI applications.  
 &#9733; 34.6k &#9733; **ON** &#9830; [cobra.dev](https://cobra.dev)
 
