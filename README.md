@@ -637,9 +637,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [StateMachine](https://github.com/Gurpartap/statemachine-go) - Declarative Finite-State Machines in Go
 
+
+
 ## Computer vision & recognition
 
 * [gocv](https://github.com/hybridgroup/gocv) - package provides Go language bindings for the [OpenCV 4](http://opencv.org/) computer vision library.
+
+
 
 ## Blockchain
 
@@ -649,12 +653,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 * [go-orbit-db](https://github.com/berty/go-orbit-db) - distributed peer-to-peer database on IPFS. This project intends to provide a fully compatible port of the JavaScript version in Go.
 
+
+
 ## Tools & linters
 
 * [nightingale](https://github.com/didi/nightingale) - Distributed and High-Performance Monitoring System. Prometheus enterprise UI  
 &#9733; 3.5k &#9830; [n9e.github.io](https://n9e.github.io/)
 
 * [golangci-lint](https://github.com/golangci/golangci-lint) - fast Go linters runner. It runs linters in parallel, uses caching, supports yaml config, has integrations with all major IDE and has dozens of linters included.
+
+
 
 ## Other
 
@@ -668,8 +676,24 @@ A curated list of awesome Go frameworks, libraries and software
 * [make-test](https://github.com/iconmobile-dev/go-interview/tree/master/make) - creates great testing display
 nionated, intermediate/advanced-level Git book
 
+
+
 ## gRPC
 
 * [gRPC-Go](https://github.com/grpc/grpc-go) - The [Go](https://golang.org/) implementation of [gRPC](https://grpc.io/): A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. For more information see the
 
 * [Go gRPC docs](https://grpc.io/docs/languages/go), or jump directly into the [quick start](https://grpc.io/docs/languages/go/quickstart).
+
+
+
+## Tutorials
+
+* [Microservice Demo](https://github.com/Joker666/microservice-demo)
+
+* [Cogman](https://github.com/Joker666/cogman) - distributed task runner backed by RabbitMQ and Redis
+
+* [Go Worker Pool](https://github.com/Joker666/goworkerpool)
+
+* [AsyncGoDemo](https://github.com/Joker666/AsyncGoDemo) - async/await demo
+
+* [future](https://github.com/jbowes/future) - An exploration of futures with Golang 1.18+ type parameters (generics)
