@@ -54,7 +54,7 @@ A curated list of awesome CSS frameworks, libraries and software
 ## Pure CSS frameworks
 
 * [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox  
-&#9733; 47k &#9733; **2023** &#9830; **Like** &#9830; [bulma.io](https://bulma.io)
+&#9733; 47.8k &#9733; **2024** &#9830; **Like** &#9830; [bulma.io](https://bulma.io)
 
 * [Tacit](https://github.com/yegor256/tacit) - framework for dummies, without a single CSS class  
 &#9733; 1.4k &#9733; **2022** &#9830; [yegor256.github.io/tacit](http://yegor256.github.io/tacit)
