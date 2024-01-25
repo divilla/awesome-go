@@ -162,8 +162,11 @@ A curated list of awesome Go frameworks, libraries and software
 * [CLI for ChatGPT](https://github.com/j178/chatgpt) - elegant interactive CLI for ChatGPT  
 &#9733; 618 &#9733; **ON** &#9830;
 
+* [argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks  
+&#9733; 579 &#9733; **ON** &#9830;
+
 * [Grumble](https://github.com/desertbit/grumble) - powerful modern CLI and SHELL  
-&#9733; 511 &#9733; **ON** &#9830;
+&#9733; 513 &#9733; **ON** &#9830;
 
 
 
