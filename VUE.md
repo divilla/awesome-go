@@ -3,25 +3,28 @@
 ## SPA Frameworks - Vue 3
 
 * [Vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework  
-&#9733; 36.7k &#9733; **2023** &#9830; [vuetifyjs.com](https://vuetifyjs.com)
+&#9733; 39.8k &#9733; **2024** &#9830; [vuetifyjs.com](https://vuetifyjs.com)
 
 * [Quasar](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time.  
-&#9733; 20.6k &#9733; **2023** &#9830; [quasar.dev](https://quasar.dev)
+&#9733; 25.5k &#9733; **2024** &#9830; [quasar.dev](https://quasar.dev)
 
 * [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.  
-&#9733; 19.5k &#9733; **2023** &#9830; **Like** &#9830; [headlessui.dev](https://headlessui.dev)
+&#9733; 26k &#9733; **2024** &#9830; **Like** &#9830; [headlessui.dev](https://headlessui.dev)
 
 * [Element Plus](https://github.com/element-plus/element-plus) - Vue.js 3 UI Library made by Element team  
-&#9733; 19.1k &#9733; **2023** &#9830; **Top** &#9830; [element-plus.org](https://element-plus.org/)
+&#9733; 24.4k &#9733; **2024** &#9830; **Top** &#9830; [element-plus.org](https://element-plus.org/)
 
 * [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - enterprise-class UI components based on Ant Design and Vue.  
-&#9733; 17.9k &#9733; **2023** &#9830; **Top** &#9830; [antdv.com](https://antdv.com/)
+&#9733; 20.2k &#9733; **2024** &#9830; **Top** &#9830; [antdv.com](https://antdv.com/)
 
 * [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.  
-&#9733; 12.1k &#9733; **2023** &#9830; **Top** &#9830; [www.naiveui.com](https://www.naiveui.com/)
+&#9733; 16.1k &#9733; **2024** &#9830; **Top** &#9830; [www.naiveui.com](https://www.naiveui.com/)
 
 * [PrimeVue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library  
-&#9733; 4.5k &#9733; **2023** &#9830; **Top** &#9830; [www.primefaces.org/primevue](https://www.primefaces.org/primevue)
+&#9733; 10.3k &#9733; **2024** &#9830; **Top** &#9830; [primevue.org/](https://primevue.org/)
+
+* [Vuestic UI](https://github.com/epicmaxco/vuestic-ui) - open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility  
+&#9733; 3.5k &#9733; **2024** &#9830; **Top** &#9830; [vuestic.dev](https://vuestic.dev/)
 
 * [Arco Design](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design  
 &#9733; 1.8k &#9733; **2023** &#9830; **Chinese** &#9830; [arco.design/vue](https://arco.design/vue)
