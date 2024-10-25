@@ -97,6 +97,9 @@
 
 ## Admin Templates
 
+* [Element Plus](https://github.com/PanJiaChen/vue-element-admin) - Open source admin template based on Element Plus and Vue 3  
+&#9733; 87.8k &#9733; **2024** &#9830; [panjiachen.github.io/vue-element-admin](https://panjiachen.github.io/vue-element-admin)
+
 * [CoreUI](https://github.com/coreui/coreui-free-vue-admin-template/) - Open source admin template based on Bootstrap 5 and Vue 3  
 &#9733; 3k &#9733; **2022** &#9830; [coreui.io/vue](http://coreui.io/vue)
 
