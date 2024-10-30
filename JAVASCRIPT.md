@@ -119,6 +119,9 @@
 * [MediumEditor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.  
 &#9733; 15.5k &#9733; **2020-08-02** &#9830; [yabwe.github.io/medium-editor](https://yabwe.github.io/medium-editor/)
 
+* [Vditor](https://github.com/Vanessa219/vditor) - Easy-to-use Markdown editor, born to adapt to different application scenarios.  
+&#9733; 8.5k &#9733; **2024** &#9830; [b3log.org/vditor](https://b3log.org/vditor)
+
 * [Javascript State Machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library  
 &#9733; 8.1k &#9733; **2018-07-12**
 
