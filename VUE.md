@@ -3,16 +3,16 @@
 ## SPA Frameworks - Vue 3
 
 * [Vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework  
-&#9733; 39.8k &#9733; **2024** &#9830; [vuetifyjs.com](https://vuetifyjs.com)
+&#9733; 40.8k &#9733; **2024** &#9830; [vuetifyjs.com](https://vuetifyjs.com)
 
 * [Quasar](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time.  
-&#9733; 25.5k &#9733; **2024** &#9830; [quasar.dev](https://quasar.dev)
+&#9733; 27k &#9733; **2024** &#9830; [quasar.dev](https://quasar.dev)
 
 * [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.  
 &#9733; 26k &#9733; **2024** &#9830; **Like** &#9830; [headlessui.dev](https://headlessui.dev)
 
 * [Element Plus](https://github.com/element-plus/element-plus) - Vue.js 3 UI Library made by Element team  
-&#9733; 24.4k &#9733; **2024** &#9830; **Top** &#9830; [element-plus.org](https://element-plus.org/)
+&#9733; 26.8k &#9733; **2024** &#9830; **Top** &#9830; [element-plus.org](https://element-plus.org/)
 
 * [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) - enterprise-class UI components based on Ant Design and Vue.  
 &#9733; 20.2k &#9733; **2024** &#9830; **Top** &#9830; [antdv.com](https://antdv.com/)
@@ -20,8 +20,14 @@
 * [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.  
 &#9733; 16.1k &#9733; **2024** &#9830; **Top** &#9830; [www.naiveui.com](https://www.naiveui.com/)
 
+* [Bootstrap Vue](https://github.com/bootstrap-vue/bootstrap-vue) - Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.  
+&#9733; 14.5k &#9733; **2024** &#9830; **Top** &#9830; [bootstrap-vue.org](https://bootstrap-vue.org/)
+
 * [PrimeVue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library  
-&#9733; 10.3k &#9733; **2024** &#9830; **Top** &#9830; [primevue.org/](https://primevue.org/)
+&#9733; 13.7k &#9733; **2024** &#9830; **Top** &#9830; [primevue.org/](https://primevue.org/)
+
+* [Vue Material](https://github.com/vuematerial/vue-material) - Next Generation Vue UI Component Library  
+&#9733; 9.9k &#9733; **2024** &#9830; **Top** &#9830; [creative-tim.com/vuematerial](https://www.creative-tim.com/vuematerial)
 
 * [Vuestic UI](https://github.com/epicmaxco/vuestic-ui) - open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility  
 &#9733; 3.5k &#9733; **2024** &#9830; **Top** &#9830; [vuestic.dev](https://vuestic.dev/)
@@ -90,6 +96,8 @@
 
 * [Vite + Vue 3 + Tailwind CSS](https://github.com/web2033/vite-vue3-tailwind-starter)  
 &#9733; 785 &#9733; **2022**
+
+* [PrimeVue starter](https://github.com/sfxcode/vite-primevue-starter)
 
 * Solid Swelte Alpine
 
